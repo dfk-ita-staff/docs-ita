@@ -1,13 +1,13 @@
-# Decentralized Exchange
+# Exchange Decentralizzato
 
-At its heart, DeFi Kingdoms has a decentralized exchange that uses the tried-and-true UniswapV2 Protocol. Investing is one of the main reasons we are drawn to blockchain technology, and we want to make the investing experience fun and enjoyable for all within the kingdom.
+Al suo centro, DeFi Kingdoms ha uno scambio decentralizzato che utilizza il collaudato protocollo UniswapV2. Investire è uno dei motivi principali per cui siamo attratti dalla tecnologia blockchain e vogliamo rendere l'esperienza di investimento divertente e piacevole per tutti nel regno.&#x20;
 
-**The Dev team is committing approximately $15k worth of ONE for to be provided to the initial ONE/JEWEL pair.**
+**Il team di sviluppo ha impegnato circa $ 15k di ONE per avere a disposizione la coppia iniziale ONE/JEWEL.**
 
 ![](../.gitbook/assets/Marketplace.jpg)
 
-From the Market, you can swap tokens at the current exchange rates. You can also become a Liquidity Provider by adding liquidity to any token pools you’d like. These will earn you fees any time anyone trades those tokens. Alternatively, these LP tokens can also be staked in the Gardens to earn JEWEL rewards.
+Dal mercato, puoi scambiare i token ai tassi di cambio correnti. Puoi anche diventare un fornitore di liquidità aggiungendo liquidità a qualsiasi pool che desideri. Questi ti faranno guadagnare commissioni ogni volta che qualcuno scambia quei token. In alternativa, questi token LP possono anche essere depositati nei giardini per guadagnare premi in JEWEL**.**
 
 ![What treasures await in the vault?](../.gitbook/assets/Vault.jpg)
 
-Another unique feature that DeFi Kingdoms offers is the Bank, where you can deposit JEWEL tokens to receive xJEWEL shares. The Bank will receive fees from the DEX and periodically do a market buy for more JEWEL tokens, meaning your xJEWEL shares will always be worth more JEWELs than you put in! **Additionally, every in-game transaction of JEWELs will deposit a percentage into the Bank to further reward xJEWEL holders.**
+Un'altra caratteristica unica offerta da DeFi Kingdoms è la banca, dove puoi depositare token JEWEL per ricevere azioni xJEWEL. La banca riceverà commissioni dal DEX e periodicamente effettuerà un acquisto di mercato per più token JEWEL, il che significa che le tue azioni xJEWEL varranno sempre più JEWEL di quanti ne metti! **Inoltre, ogni transazione in-game di JEWEL depositerà una percentuale nella banca per premiare ulteriormente i possessori di xJEWEL.**

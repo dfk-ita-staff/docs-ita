@@ -3,7 +3,7 @@
 * [Defi Kingdoms](README.md)
 * [Come funziona DeFi Kingdoms](how-defi-kingdoms-works/README.md)
   * [JEWEL Token](how-defi-kingdoms-works/jewel-token.md)
-  * [Decentralized Exchange](how-defi-kingdoms-works/decentralized-exchange.md)
+  * [Exchange Decentralizzato](how-defi-kingdoms-works/decentralized-exchange.md)
   * [The Gardens](how-defi-kingdoms-works/the-gardens.md)
   * [The Heroes](how-defi-kingdoms-works/the-heroes.md)
   * [Kingdoms](how-defi-kingdoms-works/land.md)
