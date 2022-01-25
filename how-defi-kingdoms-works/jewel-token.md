@@ -1,35 +1,35 @@
 # JEWEL Token
 
-## What is the Jewel Token?
+### Che cos'è il JEWEL Token?
 
-The JEWEL token is much more than your average crypto token. We’re establishing it to be the main token of value in our game, DeFi Kingdoms. You’ll use it to purchase the most useful items and unique NFTs such as Heroes and Kingdoms in the game, as well as various in-game buffs such as speeding up build times and refreshing stamina. Not only is the token used for in-game items and one-of-a-kind NFTs, but it will also be used in liquidity mining, allowing you to earn even more through staking. **JEWEL is also a governance token, so holders will have a say in the growth and evolution of the project.**
+Il token JEWEL è molto più di una criptovaluta. Vogliamo che sia la moneta con più valore nel nostro gioco, DeFi Kingdoms. La utilizzerai per acquistare gli oggetti più utili e NFT unici come Heroes e territori nel gioco, oltre a vari vantaggi nel gioco come la veloccizzazione dei tempi di costruzione e il recupero della stamina. Non solo il token viene utilizzato per oggetti di gioco e NFT unici, ma verrà utilizzato anche per il mining di liquidità, consentendoti di guadagnare ancora di più attraverso lo staking. **JEWEL è anche un token di governance, quindi i titolari avranno voce in capitolo nella crescita e nell'evoluzione del progetto.**
 
 ![The JEWEL logo.](../.gitbook/assets/jewel-icon.png)
 
-With every JEWEL transaction, the proceeds are portioned for the following allocations: some are deposited into the bank to reward xJEWEL holders, some are recycled back into the game into the community treasury, returning to the players as quest rewards, and some are funneled to development costs to continue to keep the development of DeFi Kingdoms strong and healthy. JEWEL is the lifeblood of our project and will allow those playing to earn actual tradeable tokens instead of playing and investing in a game with zero chance of recouping your investment. In DeFi Kingdoms, your initial investment has the potential to increase in value over time.
+Con ogni transazione di JEWEL, i proventi vengono suddivisi in questo modo: alcuni vengono depositati in banca per premiare i possessori di xJEWEL, alcuni vengono riciclati nel gioco nella tesoreria della comunità, tornando ai giocatori come ricompense per le missioni e alcuni vengono incanalati per costi di sviluppo per continuare a mantenere forte e sano lo sviluppo di DeFi Kingdoms. JEWEL è la linfa vitale del nostro progetto e consentirà a chi gioca di guadagnare veri e propri token scambiabili invece di giocare e investire in un gioco con zero possibilità di recuperare il proprio investimento. In DeFi Kingdoms, il tuo investimento iniziale ha il potenziale per aumentare di valore nel tempo.
 
-Early adopters are provided with the highest rewards the JEWEL token will ever see! All rewards are greatly multiplied at the start of the project to help stimulate interest and involve loyal investors.
+I primi utenti ricevono le ricompense più alte che il token JEWEL vedrà mai! Tutti i premi sono notevolmente moltiplicati all'inizio del progetto per aiutare a stimolare l'interesse e coinvolgere investitori fedeli.
 
-### JEWEL Hard Cap
+### JEWEL Hard Cap (Supply massima)
 
-The JEWEL token has a hard cap of 500,000,000 tokens.
+JEWEL ha un tetto massimo di 500,000,000 token.
 
-### Pre-minting
+### Pre-minting (pre-conio)
 
-The **10,000,000 JEWEL** tokens will be be pre-minted and distributed as follows:
+I primi **10,000,000 JEWEL** saranno preconiati e distribuiti come segue:
 
-* **5,000,000 JEWEL**: Allocated to fund the future development of the game. These tokens will be time-locked and release over a set schedule as features are completed.
-* **2,000,000 JEWEL**: Allocated for promotion of the project, including marketing, airdrops, etc. These tokens are also time-locked to release slowly over the next few years, to ensure that there are always funds available to market the game and acquire new players and investors.
-* **2,000,000 JEWEL**: Allocated for initial liquidity. These tokens will be matched with ONE tokens to form the initial liquidity pool and will not be withdrawn or sold.
-* **1,000,000 JEWEL**: Allocated for bounties and hours for the founding team based on their work towards launch. Half of these will be awarded at launch, and the other half will vest over time.
+* &#x20;**5,000,000 JEWEL** Assegnato per finanziare lo sviluppo futuro del gioco. Questi token saranno bloccati nel tempo e verranno rilasciati in base a una pianificazione prestabilita man mano che le funzionalità saranno completate.
+* **2,000,000** **JEWEL**: Assegnati per la promozione del progetto, inclusi marketing, airdrop, ecc. Questi token sono anche bloccati a tempo per essere rilasciati lentamente nei prossimi anni, per garantire che ci siano sempre fondi disponibili per commercializzare il gioco e acquisire nuovi giocatori e investitori.
+* **2,000,000 JEWEL**: Assegnato per liquidità iniziale. Questi token saranno abbinati a ONE token per formare il pool di liquidità iniziale e non saranno ritirati o venduti.
+* **1,000,000 JEWE**L: assegnati al team fondatore in base al lavoro svolto per il lancio. La metà di questi sarà assegnata al momento del lancio e l'altra metà maturerà nel tempo.
 
-### Multi-sig Wallet Treasury
+### Portafoglio Tesoreria Multi-sig
 
-**Our funds are secured in a multi-sig wallet at multisig.harmony.one.** These wallets will be controlled by 4 founding members of the project, and any transaction will require 3 out of 4 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to do anything on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed.
+**I nostri fondi sono protetti in un portafoglio multi-sig su multisig.harmony.one.** Questi portafogli saranno controllati da 4 membri fondatori del progetto e qualsiasi transazione richiederà 3 firme su 4 per essere eseguita. Questo aiuta a proteggersi dagli hack che prenderebbero di mira le tesorerie, assicurando che non ci sia un singolo punto di errore**.** Inoltre, questo protegge da qualsiasi membro del team che ha il potere di fare qualsiasi cosa da solo, senza che il resto del team ne sia consapevole e sia d'accordo. Offre inoltre il 100% di trasparenza, poiché chiunque può visualizzare tutte le transazioni proposte prima che vengano eseguite, nonché una cronologia di ogni transazione passata eseguita.
 
-We know there has been concern with some other projects selling a large amount of tokens at launch that left some feeling frustrated in the project. We seek to help put these concerns at ease with these measures to help our community have confidence in the DeFi Kingdoms project.
+Sappiamo che ci sono state preoccupazioni con alcuni altri progetti che vendevano una grande quantità di token al momento del lancio che hanno lasciato alcuni sentimenti di sfiducia nel progetto. Cerchiamo di evitare queste preoccupazioni con queste misure per aiutare la nostra comunità ad avere fiducia nel progetto DeFi Kingdoms.
 
-You can see the addresses of these funds here.
+&#x20;Puoi vedere gli indirizzi di questi fondi qui.
 
 **Development Fund Multisig Safe:** [**https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances**](https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances)\*\*\*\*\
 \*\*\*\*\
@@ -44,9 +44,9 @@ You can see the addresses of these funds here.
 \*\*Initial Liquidity Fund: \*\*_\*\*\*\*_ 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
 
 **Founding Member Addresses:**\
-_**\_Frisky Fox: \_**_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
-Sinstar Necro: 0xA76Ea4f96136AF0fF23e7CC426Bfc21E451ff9f5\
-Jericho Splendershoes: 0x2b45C2dF1E982E596137d49A02afC02B9fb8B8dB\
-Admiral Omicron: 0x19612e015E6bC4f5C7ba122bd4acA23646414b72
+_**Frisky Fox:**_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
+**Sinstar Necro:** 0xA76Ea4f96136AF0fF23e7CC426Bfc21E451ff9f5\
+**Jericho Splendershoes:** 0x2b45C2dF1E982E596137d49A02afC02B9fb8B8dB\
+**Admiral Omicron:** 0x19612e015E6bC4f5C7ba122bd4acA23646414b72
 
 ####

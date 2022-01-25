@@ -6,14 +6,14 @@ description: Official DeFi Kingdoms Whitepaper, last updated Dec 29, 2021
 
 ![Join us in the Kingdoms!](.gitbook/assets/docsgraphic.png)
 
-## Introduzione
+## Introduction
 
-DeFi Kingdoms è un gioco, un DEX, un'opportunità di pool di liquidità, un mercato di NFT, e tutto si svolge perfettamente nella forma incredibilmente nostalgica della pixel art fantasy. Siamo entusiasti di rilasciare l'universo di DeFi Kingdom al mondo. Vieni a far parte della nostra adorabile community!
+DeFi Kingdoms is a game, a DEX, a liquidity pool opportunity, a market of rare utility driven NFTs, and it all plays out seamlessly in the incredibly nostalgic form of fantasy pixel art. We’re excited to release the DeFi Kingdom universe to the world. Come join our lovely community!
 
-### La motivazione per la creazione di DeFi Kingdoms
+### The motivation for Creating DeFi Kingdoms
 
-Siamo grandi fan dell'innovazione che sta accadendo nella DeFi e nella tecnologia blockchain in generale, ma stavamo aspettando un progetto DeFi per abbracciare davvero il pieno potenziale della blockchain in forma di gioco. Investire e ottenere quei dolci ritorni e sfruttare il rialzo di prezzo di alcune coin è senza dubbio divertente, ma perché non può essere tutto in forma di gioco? Perché non possiamo costruire qualcosa e aumentarlo di livello per aumentare i guadagni? Perché non possiamo fare missioni giornaliere per raccogliere NFT rari che effettivamente aumentano e influiscono sui premi e sui ritorni? Una volta deciso che doveva essere costruito, siamo passati a capofitto nella produzione ed è nato DeFi Kingdoms!
+We’re big fans of the innovation happening in DeFi and in blockchain technology in general, but we've been waiting for a DeFi project to really embrace the full potential of the blockchain in game form. Investing and getting those sweet returns and moon shots is undoubtedly fun, but why can't it feel more like a game? Why can't we build an operation and level it up to increase returns? Why can't we do daily quests to collect rare NFTs that actually augment and impact the rewards and returns? Once we decided it needed to be built, we jumped head first into production, and DeFi Kingdoms was born!
 
-### Un team dedicato e una visione condivisa
+#### A Dedicated Team and a Shared Vision
 
-Volevamo un dex che permettesse ai possessori non solo di detenere una criptovaluta, ma di possederne una che sia utilizzabile, preziosa e che faccia guadagnare i possessori in molti modi divertenti. Abbiamo confezionato elementi DeFi in un gioco divertente e sinergico, fornendo ai possessori di token JEWEL un'esperienza coinvolgente e significativa. Siamo qui per il lungo termine, pianificando le funzionalità per le fasi a venire e alcune un po' più avanti per impostare questa community e proiettarci verso la massima magnificenza. :)
+We wanted a dex that allows holders to not just hold a monetary token, but own a token that is usable, valuable, and that gives back to holders in many fun ways. We’ve packaged DeFi elements into a fun and synergistic game, providing JEWEL token holders with an engaging and meaningful experience. We’re here for the long term, planning features for phases soon to come, and some a little further down the road to set this community and project up for maximum awesomeness. :)
