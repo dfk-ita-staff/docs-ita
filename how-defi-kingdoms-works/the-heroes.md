@@ -1,39 +1,39 @@
 # The Heroes
 
-Though gardening and growing JEWEL tokens is amazingly adorable by itself, we wanted to add a bit of sword and sorcery to this fantasy kingdom, and what better way to do that than introducing one-of-a-kind pixel heroes in our marketplace?
+Anche se il giardinaggio e la coltivazione di JEWEL sono straordinariamente adorabili di per sé, volevamo aggiungere un po' di "spada e stregoneria" a questo regno fantastico, e quale modo migliore per farlo se non introdurre degli eroi unici in pixel style nel nostro mercato?
 
 ![](<../.gitbook/assets/hero base showcase1.png>)
 
-We’re going one step further than your standard NFTs as our Hero NFTs will be playable characters that you can level up and earn JEWELs with! These NFTs aren’t meant to just sit on a shelf and look pretty, they’re one of the key features in the game. As they are assigned to go on quests, battle in PVP, or dressed up in gear to maximize their stats, they’ll be leveling up and earning you tokens through the whole adventure.
+Stiamo andando un passo oltre rispetto agli NFT standard poiché i nostri Eroi NFT saranno personaggi giocabili con cui potrai salire di livello e guadagnare JEWEL! Questi NFT non sono pensati per sederli su uno scaffale come soprammobili, ma sono una delle caratteristiche chiave del gioco. Man mano che vengono assegnati alle varie missioni, combattere in PVP o vestirsi con equipaggiamenti per massimizzare le loro statistiche, saliranno di livello e guadagneranno JEWEL ed altri oggetti durante l'intera avventura.
 
-**Summoning and Trading**
+### **Evocazioni e Trading**&#x20;
 
-Heroes are summoned through a portal of dimensions, and each new Hero is completely unique. There’s virtually endless combinations of parts that make up each unique NFT Hero, so no two will ever be the same—in stats or in appearance.
+Gli eroi vengono evocati attraverso un portale dimensionale ed ogni nuovo eroe sarà completamente unico. Ci sono combinazioni di parti praticamente infinite che compongono ogni Eroe NFT unico, quindi non ce ne saranno mai due uguali, nelle statistiche o nell'aspetto.
 
-The Tavern is the place to buy and sell Heroes. Players may also offer their Heroes for rent in the Tavern, to be used by other players for Summoning.
+La Taverna è il posto dove comprare e vendere Eroi. I giocatori possono anche offrire i loro Eroi in affitto nella Taverna, per essere usati da altri giocatori per evocare.
 
-You can purchase Heroes in the Tavern, but you can also Summon new ones by combining genes from your current Heroes! With Summoning, you’ll never know exactly what type of Hero is going to come out of the portal next—you could end up with an extremely rare, and valuable, tradeable NFT.
+Puoi acquistare Eroi nella Taverna, ma puoi anche evocarne di nuovi combinando i geni dei tuoi attuali Eroi! Con le Evocazioni non saprai mai esattamente quale tipo di eroe uscirà dal portale dopo: potresti finire con un NFT estremamente raro e prezioso scambiabile.
 
-**Hero Genes**
+### **Genetica degli Eroi**
 
-Heroes have two sets of genes, one for appearance and another for their playable attributes, such as profession, class, subclass, passive and active abilities, and more. During Summoning, the newly summoned hero will randomly acquire genes from both source heroes used in the summoning. **There is also a chance of mutations in genes, resulting in new, rare abilities and classes!**
+Gli Eroi hanno due set di geni, uno per l'aspetto e l'altro per i loro attributi giocabili (come professione, classe, sottoclasse, abilità passive e attive e altro ancora). Durante l'evocazione, l'eroe appena evocato acquisirà casualmente i geni da entrambi gli eroi sorgente utilizzati nell'evocazione. C'è anche la possibilità di ottenere mutazioni nei geni, che si traducono in nuove abilità e classi rare!
 
-**Equipment**
+### **Equipaggiamenti**
 
-Heroes will be able to find and equip valuable equipment NFTs that will grant them special passive and active abilities, and increase their stats.
+Gli Eroi potranno trovare ed equipaggiare preziose attrezzature NFT che garantiranno loro abilità passive e attive speciali e aumenteranno le loro statistiche.
 
-**Stats**
+### **Statistiche**
 
-Heroes will have various stats that determine how effective they can be performing different quests. These stats can be increased as heroes gain XP and level up.
+Gli Eroi avranno varie statistiche che determinano l'efficacia con cui possono svolgere le diverse missioni. Queste statistiche possono essere aumentate man mano che gli eroi guadagnano XP e salgono di livello.
 
-**Quests**
+### **Quests**
 
-Heroes are able to go on various quests within the kingdom. Professions Quests allow Heroes to gather in-game resources and currency while gaining experience, or to increase the yield from their Gardens. Adventure Quests will be PVE quests that reveal lore, tell stories, and reward players with a variety of loot.
+Gli Eroi possono intraprendere varie missioni all'interno del regno. Le missioni dei mestieri consentono agli eroi di raccogliere risorse e valuta di gioco mentre acquisiscono esperienza ed aumentano la loro resa. Le missioni avventura saranno missioni PVE che riveleranno nuove funzioni, racconteranno storie e ricompenseranno i giocatori con una diversa varietà di bottino.
 
-**Pets**
+### **Pets**
 
-Heroes can sometimes find eggs that may hatch into rare pets that will accompany them on their adventures. These pets can grant stat bonuses, passive abilities, and more.
+Gli Eroi a volte possono trovare uova, che possono essere schiuse per ottenere in animali rari, che li accompagneranno nelle loro avventure. Questi animali domestici possono garantire bonus alle statistiche, abilità passive e altro.
 
-**PvP**
+### **PvP**
 
-Heroes will be able to participate in periodic tournaments in parties of 3, to compete against other players for JEWEL prizes. Maximize your stats and take your rightful place as the world champion!
+Gli Eroi potranno partecipare a tornei periodici in gruppi di 3, per competere contro altri giocatori per i premi in JEWEL. Massimizza le tue statistiche e prendi il posto che ti spetta come campione del regno!
