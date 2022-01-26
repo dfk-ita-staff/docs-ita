@@ -1,11 +1,11 @@
 # Heroes
 
-Gli Eroi in DeFi Kingdoms sono NFT basati sull'utilità con una varietà di usi.
+Heroes in DeFi Kingdoms are utility-based NFTs with a variety of uses.
 
-Gli Eroi possono essere abbinati per evocare più Eroi ([Summons](summoning.md)), le cui Classi, Statistiche ([Stats](stats.md)) e [Rarità](rarity.md) sono parzialmente determinate dai due Eroi usati per infondere il cristallo dell'Evocazione.
+Heroes can be paired to [Summon](summoning.md) more Heroes, whose classes, [stats](stats.md), and [rarity](rarity.md) are partially determined by the two Heroes used to infuse the Summoning Crystal.
 
-Gli Eroi possono impegnarsi nelle [Profession Quests](../professions/) per guadagnare JEWEL e risorse di gioco, nonché aumentare le abilità nella Profession e guadagnare EXP per il livello di successivo dell'Eroe. Una volta che gli Eroi raggiungono una soglia di esperienza, possono [salire di livello](leveling.md) nel Meditation Circle.
+Heroes can engage in [Professions Quests](../professions/) to earn JEWEL and in-game resources, as well as increases to the relevant profession skill and experience toward the next Hero level. Once Heroes reach an experience threshold, they can [level up](leveling.md) at the Portal.
 
-Alla fine, gli Eroi potranno partecipare a ulteriori [missioni](quests.md) per guadagnare bottino ed esperienza, per esempio le missioni PVE in cui combatteranno i nemici.
+Eventually, Heroes will be able to participate in further [Quests](quests.md) to gain loot and experience, including PVE quests in which they battle enemies.
 
-La [Tavern](../tavern.md) ospita l'Agent NFT, che permetterà l'acquisto la vendita di Eroi, oltre all'affitto per usarli nel [Portale di Evocazione](../portal.md).
+The Tavern hosts the NFT Agent, who can assist with buying and selling Heroes, as well as renting them out for use in the Summoning [Portal](../portal.md).

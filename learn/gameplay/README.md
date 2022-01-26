@@ -1,9 +1,9 @@
 # Gameplay
 
-Gran parte del Gameplay di DeFi Kingdoms è incentrato sugli [Heroes](heroes/), gli NFT basati sull'utilità, possono raccogliere risorse con le [Professions](professions/) ed alla fine saranno in grado di partecipare a missioni di combattimento (PVE) e persino PVP. Puoi visitare la [Tavern](tavern.md) per acquistare Eroi e puoi leggere per saperne di più su ciò che rende unico ogni Eroe nella sezione [Heroes](heroes/) di questa guida.
+Much of the gameplay in DeFi Kingdoms is centered around [Heroes](heroes/), the utility-based NFTs that can gather resources with [Professions](professions/) and will eventually be able to participate in combat quests and even PVP. You can visit the [Tavern](tavern.md) to buy Heroes and you can learn more about what makes each Hero unique in the [Heroes](heroes/) section of this guide.
 
 ![The Tavern](<../../.gitbook/assets/Tavern (1).JPG>)
 
-Se non hai ancora abbastanza JEWEL per acquistare un Eroe, va bene lo stesso! Puoi investire ciò che hai tramite la [Bank](bank.md) (commissioning DEX) o nei [Gardens](../../how-defi-kingdoms-works/the-gardens.md) (pooling di liquidità) per iniziare a guadagnare più JEWEL. Ovviamente, in primo luogo, dovrai visitare il [Marketplace](marketplace.md) per fare trading con JEWEL.
+If you don't have enough JEWEL yet to purchase a Hero, that's ok, too! You can invest what you do have through the [Bank](bank.md) (DEX fee sharing) or in the Gardens (liquidity pooling) to begin earning more JEWEL. Of course, you'll need to visit the [Marketplace](marketplace.md) to trade for JEWEL in the first place.
 
-Le possibilità di gioco e di guadagno in DeFi Kingdoms sono molte e varie, quindi non esitare a esplorare ulteriormente questa guida per saperne di più sulle opzioni a tua disposizione!
+The possibilities for gameplay and earning in DeFi Kingdoms are many and varied, so don't hesitate to explore this guide further to learn more about the options available to you!

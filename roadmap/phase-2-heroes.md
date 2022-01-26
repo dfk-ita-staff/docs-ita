@@ -4,15 +4,15 @@ description: Q4 2021
 
 # Phase 2 - Heroes & Quests
 
-La seconda fase principale vedrà gli Eroi entrare nel mondo di Defi Kingdoms, insieme ad una serie di cose eccitanti da fare per loro.
+The second major phase will see heroes come to the world of Defi Kingdoms, along with a slew of exciting things for them to do.
 
 * Hero NFTs
   * Stats
-  * Tradabili
-  * Possono guadagnare EXP (esperienza)
-  * 50 Eroi di generazione 0 (Gen0) sono stati assegnati a vincitori casuali, persone che avevano almeno 5.000 xJEWEL nel proprio bilancio in Bank entro il 15 settembre 2021 (ad ogni giocatore sono stati richiesti almeno 5.000 xJEWEL in Bank per ottenere un ticket per l'estrazione casuale dei vincitori. I partecipanti hanno ricevuto 2 ticket in più per ogni multiplo di 5.000 xJEWEL che avevano oltre il primo.)
+  * Tradable
+  * Can gain experience
+  * 50 Gen 0 Heroes were given to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Sept 15, 2021 (A player was required at least 5,000 xJEWEL in the bank to get an entry in the drawing of random winners. Addresses received an extra 2 entries for each multiple of 5,000 xJEWEL they had beyond the first.)
 * Quests
-  * Gli Eroi possono essere assegnati a missioni che faranno guadagnare loro esperienza e ricompense.
-  * Tipi di Quests:
-    * Professions - Mina, pesca, coltiva, o vai alla ricerca nella foresta per trovare oggetti di gioco, valuta e guadagnare EXP. Il Mining ed il Gardening possono persino premiarti con JEWEL!
-    * Dungeon Raids/PVE - Perlustra Dungeons per premi ed EXP (posticipato nella Phase 6).
+  * Heroes can be assigned to quests that will earn them experience and drops.
+  * Quest types:
+    * Professions - Mine, fish, garden, or forage to farm for in-game items and currency and to gain XP. Mining and Gardening can even reward you with JEWEL!
+    * Dungeon Raiding/PVE - Raid dungeons for loot and XP (slated for Phase 6).
