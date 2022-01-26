@@ -4,17 +4,17 @@ description: Information about the Level 0 Foraging quest.
 
 # Foraging
 
-**Le missioni di Foraging** possono produrre **piante, Gaia's Tears, rune Shvās, Uova Grigie, EXP** per il livello successivo dell' Eroe e nel mentre **l'abilità Foraging cresce di livello**. Tutti le piante possono essere venduti nel [Marketplace](../marketplace.md) al Vendor Zada ​​per **Gold** o scambiati con il Trader Matoya per **JEWEL**. Alcune piante sono ingredienti di Pozioni, che possono essere create con l'Alchimista Herbert. Tutti i pesci possono avere usi ancora sconosciuti.
+**Foraging quests** can yield **plants**, **Gaia's Tears**, **Shvās runes**, **Grey Eggs**, **experience** toward a Hero's next level, and foraging **skill increases**. All plants may be sold in the [Marketplace](../marketplace.md) to Vendor Zada for **gold** or swapped with Trader Matoya for **JEWEL**. Some plants are ingredients in **potions**, which can be crafted with Alchemist Herbert. All plants may have uses that are unknown as yet.
 
-Le missioni di **Foraging** costano 7 Stamina per tentativo, 5 Stamina per gli Eroi con **Foraging** come Professione principale. Possono essere mandati a pescare contemporaneamente gruppi di massimo 6 Eroi, ed il numero di tentativi che ciascun Eroe farà viene scelto nella finestra della Quest. Ogni membro del gruppo è limitato al numero più alto di tentativi che un dato membro del gruppo può affrontare, quindi è più efficiente raggruppare saggiamente gli Eroi.
+Foraging quests cost 7 Stamina per attempt, reduced to 5 Stamina for Heroes with **foraging** as their main profession. Groups of up to 6 Heroes can be sent to forage at once and the number of attempts that each Hero will make is chosen in the quest window. Every member in the group is limited to the highest number of quest attempts that any given member can attempt, so it is most efficient to group Heroes wisely.
 
-Dopo aver selezionato gli Eroi partecipanti ed aver scelto il numero di tentativi di missione, la finestra della Quest mostrerà il tempo necessario al gruppo per completare tutti i suoi tentativi di foraging. E' possibile mettere in coda altri gruppi di Eroi per iniziare le loro missioni non appena il gruppo precedente ha terminato.
+After selecting the participating Heroes and choosing the number of quest attempts, the quest window will display the required time for the party to complete all of its foraging runs. Additional groups of Heroes may be queued and commence their quests as soon as the prior party has finished.
 
-Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi **DEX, INT** e **Foraging**, e se **Foraging** è la loro abilità principale.
+Heroes receive bonuses to the base drop rates of foraging items based on their **DEX**, **INT**, and **foraging** scores as well as whether **foraging** is their main skill.
 
-### **Drop Rates Quest livello 0:**
+### **Level 0 item drop rates:**
 
-**Niente** - 50%
+**Nothing** - 50%
 
 **Ragweed** - 23%
 
@@ -30,4 +30,4 @@ Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi
 
 **Swift-thistle** - 0.915%
 
-**Uovo Grigio** - 0.01%
+**Grey Egg** - 0.01%

@@ -30,4 +30,4 @@ Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi
 
 **Shimmerscale** - 0.915%
 
-**Uovo Blu** - 0.01%
+**Blue Egg** - 0.01%

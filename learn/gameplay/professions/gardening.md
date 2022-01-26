@@ -4,34 +4,34 @@ description: Information about the Level 0 Gardening quest.
 
 # Gardening
 
-**Gardening Quests** can be performed by one Hero at a time in each of the incentivized pools listed in the **Seed Box** in the Gardens. The quest is begun in the **Professions** area by speaking to the **Gardener**, Druid Lam. Heroes may Garden in any of the available Gardens, but JEWEL rewards are only available from those in which the player has seeds, and the JEWEL yield increases with the number of seeds planted by that player in that particular garden. However, the Gardening quest has a chance to reward Heroes with plants, **Gaia's Tears**, **Shvās runes**, and **Green Eggs** whether the player has seeds in the garden or not. All plants may be sold in the [Marketplace](../marketplace.md) to Vendor Zada for **gold** or swapped with Trader Matoya for **JEWEL**. Some plants are ingredients in **potions**, which can be crafted with Alchemist Herbert. All plants may have uses that are unknown as yet.
+**Le missioni di Gardening** possono essere eseguite da un Eroe alla volta in ciascuna delle Liquidity Pool incentivate elencate nella **Seed Box** nei **Gardens**. La Quest inizia nell'**area Professions** parlando con il giardiniere, Druid Lam. Gli Eroi possono fare Gardening in uno dei giardini disponibili (LP), ma le ricompense in JEWEL sono disponibili solo dai giardini in cui il giocatore ha semi piantati (LP token depositati). La resa in JEWEL aumenta con il numero di semi piantati da quel giocatore in quel particolare giardino. Tuttavia, la missione Gardening ha la possibilità di premiare gli Eroi con **piante, Gaia's Tears, Rune Shvās e Uova Verdi, EXP**, indipendentemente dal fatto che il giocatore abbia semi nel giardino o meno. Tutte le piante possono essere vendute nel [Marketplace](../marketplace.md) al Vendor Zada ​​per **Gold** o scambiate con il Trader Matoya per **JEWEL**. Alcune piante sono ingredienti di **Pozioni**, che possono essere create con l'Alchimista Herbert. Tutte le piante possono avere usi ancora sconosciuti.
 
-**The Level 0 Gardening quest is being launched with a special multiplier to increase its rewards yield for a limited time.** The quest launch occurred on 12/22/21. This multiplier will decrease over a period of 16 weeks until the quest settles at the intended yield formula. Gardening yields rely heavily on both the player's share of the liquidity pools that their Heroes will work in and on the overall balance of the Quest Rewards wallet, so there will be both a large variance in yields between players and pools and a variance in yields over time as the Quest Rewards pool grows or shrinks.
+**La missione Gardening di livello 0** **è stata lanciata con uno speciale moltiplicatore per aumentare la resa delle ricompense per un periodo di tempo limitato.** Il lancio della Quest è avvenuto il 22/12/21. Questo moltiplicatore diminuirà in un periodo di 16 settimane, fino a quando la Quest non si stabilizzerà sulla formula di rendimento prevista. I rendimenti del Gardening dipendono fortemente dalla quota del giocatore dei Pool di Liquidità in cui lavoreranno i loro Eroi sia dal saldo generale del portafoglio Quest Rewards, quindi ci sarà una grande variazione nei rendimenti tra giocatori e Pool, ed una variazione nei rendimenti rispetto al tempo, mentre la Quest Rewards Pool cresce o si riduce.
 
-### **Level 0 rewards formula:**
+### **Formula dei Reward per Quest livello 0:**
 
-earnRate (per tick) = launchBonus\*(rewardPool\*poolAllocation\_\*\_LPowned\*(0.1+(**WIS**+**VIT**)/1222.22+(**GrdSkl**)/244.44))/(43,200-(7200\***geneBonus**))
+**Rate di Guadagno per tick (ogni 1 Stamina speso)** = launchBonus\*(rewardPool\*poolAllocation\_\*\_LPowned\*(0.1+(**WIS**+**VIT**)/1222.22+(**GrdSkl**)/244.44))/(43,200-(7200\***geneBonus**))
 
-**rewardPool** - This is the balance of the quest pool wallet.
+**rewardPool** - Bilancio della Quest Reward Pool
 
-**poolAllocation** - This is the percent of allocation a specific garden has (the allocation for JEWEL distribution).
+**poolAllocation** - Questa è la percentuale di assegnazione di un giardino specifico (l'assegnazione per la distribuzione di JEWEL).
 
-**LPowned** - The percent of the liquidity pool that the player owns in the selected Garden.
+**LPowned** - La percentuale di share della Liquidity Pool che il giocatore possiede nel giardino selezionato.
 
-**GrdSkl** - A hero's Gardening skill (only counts integer value (1.9 GrdSkl will have same result as 1.0 GrdSkl).
+**GrdSkl** - L'abilità Gardening di un Eroe (conta solo il valore intero (1,9 GrdSkl avrà lo stesso risultato di 1,0 GrdSkl).
 
-**geneBonus** - Provides a 20% bonus to JEWEL returns, increases the chances of finding tears and runes, and decreases the amount of time per tick from 12 minutes to 10 minutes. These bonuses are only present if the hero has the gardening gene. If they have the gene, geneBonus = 1, if not, geneBonus = 0.
+**geneBonus** - Fornisce un bonus del 20% ai ritorni in JEWEL, aumenta le possibilità di trovare Tears e Rune e riduce il tempo per tick da 12 minuti a 10 minuti. Questi bonus sono presenti solo se l'Eroe ha il gene Gardening. Se hanno il gene, geneBonus = 1, in caso contrario, geneBonus = 0.
 
-**launchBonus** - A special multiplier applied at launch that will start at 5 at launch, and decrease by 0.5 every two weeks until the value is 1.
+**launchBonus** - Uno speciale moltiplicatore applicato al lancio che inizierà con valore 5 e diminuirà di 0,5 ogni due settimane fino a raggiungere 1.
 
-### **Level 0 item drop rates:**
+### **Drop Rates Quest livello 0:**
 
-**Spiderfruit** - 6% (per 5 Stamina spent)
+**Spiderfruit** - 6% (per 5 Stamina spesi)
 
-**Milkweed** - 4% (per 5 Stamina spent)
+**Milkweed** - 4% (per 5 Stamina spesi)
 
-**Bluestem** - 9% (per 5 Stamina spent)
+**Bluestem** - 9% (per 5 Stamina spesi)
 
-**Green Egg** - .02% (per 10 Stamina spent)
+**Uovo Verde** - .02% (per 10 Stamina spesi)
 
-**Item drop rates are increased by varying combinations WIS, VIT, and, the gardening stat, and the gardening gene.**
+**I Drop Rates base degli oggetti aumentano grazie al punteggio WIS, VIT,  Gardening, ed il gene Gardening dell''Eroe.**
