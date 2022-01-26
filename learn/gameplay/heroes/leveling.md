@@ -1,33 +1,41 @@
 # Leveling
 
-Heroes can increase their stats by leveling up. To level up, a Hero must first have accumulated enough experience from their adventures. Once they have done that, they visit the **Meditation Circle**, and spend a certain number of runes and JEWEL based on their level. They also have the option to use an attunement crystal while leveling up, which will increase the success rate for certain stat increases.
+Gli Eroi possono aumentare le loro Statistiche salendo di livello. Per salire di livello, un Eroe deve prima aver accumulato abbastanza EXP dalle sue avventure. Dopo averlo fatto, possono visitare il Circolo di Meditazione (Meditation Circle) e, spendono un certo numero di Rune e JEWEL in base al loro livello, passare a quello successivo. Hanno anche la possibilità di utilizzare un Cristallo di Sintonizzazione (Attunement Crystal) mentre salgono di livello, il che aumenterà la percentuale di successo per determinati aumenti delle Statistiche.
 
 ![The Meditation Circle](<../../../.gitbook/assets/mediation circle.png>)
 
-Each set of 10 levels has a focus rune associated with it. For levels 1 through 10, that rune is the **Shvās rune**.
+Ogni set di 10 livelli ha una Runa di concentrazione ad esso associata. Per i livelli da 1 a 10, quella runa è la **Runa Shvās**.
 
 ![Shvās](https://dfk-hv.b-cdn.net/art-assets/rune.gif)
 
-The rune cost for leveling increases each time a Hero moves to an odd-numbered level. So, a Level 1 Hero will pay one Shvās rune to level up to Level 2, then two Shvās runes to move from level 2 to 3 and again from 3 to 4, and so on. As a result, the maximum number of any single rune type needed in a single level-up is five. Leveling costs are summarized in a chart below.
+Il costo in Rune per il salire di livello aumenta ogni volta che un Eroe passa a un livello dispari. Quindi, un Eroe di livello 1 pagherà una Runa Shvās per salire al livello 2, quindi due Rune Shvās per passare dal livello 2 al 3 e di nuovo dal 3 al 4, e così via. Di conseguenza, il numero massimo di ogni singolo tipo di Runa necessario in un singolo level-up è 5. I costi di livellamento sono riepilogati nel grafico sottostante.
 
-After reaching level 10, the Hero will need an additional rune type (Moksha) to level up further. However, as the Hero progresses from level 11 to 20, their Shvās rune cost will decrease each time the Moksha cost increases. The Shvās rune cost will stop decreasing once it reaches 1 (meaning a hero will always pay at least 1 rune of a type they have used before). This pattern continues with new rune types every ten levels.
+Dopo aver raggiunto il livello 10, l'Eroe avrà bisogno di un tipo di Runa aggiuntivo (Moksha) per salire di livello ulteriormente. Tuttavia, man mano che l'Eroe avanza dal livello 11 al 20, il costo delle Rune Shvās diminuirà ogni volta che il costo in Rune Moksha aumenta. Il costo delle Rune Shvās smetterà di diminuire una volta raggiunto 1 (il che significa che un Eroe pagherà sempre almeno 1 Runa di un tipo che ha usato prima). Questo schema continua con nuovi tipi di Rune ogni 10 livelli.
 
 ![](../../../.gitbook/assets/Meditation\_Quest\_no\_pic-1.png)
 
-The JEWEL cost of leveling up is 0.1\*currentLevel.
+Il costo in JEWEL per salire di livello è 0,1\*currentLevel.
 
-The benefit of leveling up is an increase to a Hero’s stats. Excluding HP, MP, and Stamina, the game will roll twice for each stat to see if they increase. The first roll will be based on the Hero’s **Primary Stat Growth** percentage, which is primarily based on the Hero’s class. The second roll is based on the Hero’s **Secondary Stat Growth** percentage, which is primarily based on the Hero’s subclass. For each successful roll, the stat receives +1 to its value.
+Il vantaggio di salire di livello è un aumento delle statistiche di un Eroe. Escludendo HP, MP e Stamina, il gioco "tirerà un dado" due volte per ogni Statistica per vedere se aumentano. Il primo tiro si baserà sulla percentuale di crescita delle **Statistiche Primarie** dell'Eroe, che si basa sulla classe primaria dell'Eroe. Il secondo tiro si basa sulla percentuale di crescita delle **Statistiche Secondarie** dell'Eroe, che si basa sulla Sottoclasse dell'Eroe. Per ogni tiro riuscito, la Statistica riceve +1 al suo valore.
 
-Primary Stat Growth and Secondary Stat Growth are important factors that the player can modify through the use of enhancement stones and summoner bonuses from spending additional Gaia’s Tears during the summoning process (more on this later).
+La crescita delle Statistiche Primarie e la crescita delle Statistiche Secondarie sono fattori importanti che il giocatore può modificare attraverso l'uso di Pietre di Potenziamento e bonus dell'evocatore spendendo ulteriori Gaia's Tears durante il processo di Evocazione (ne parleremo più avanti).
 
-See Freya's handy [stat growth breakdown charts](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=655220330) for insight into the base growth rates of each class.
+Consulta i pratici [grafici di ripartizione della crescita delle Statistiche](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=655220330) di Freya per avere informazioni dettagliate sui tassi di crescita di base di ciascuna Classe.
 
-In addition to these two rolls per stat, the player will be given a choice of one stat to grant an extra +1 bonus. But that is not all, players also have a chance to seek Gaia’s blessing for two other stats. Gaia’s blessing has a 50% chance of increasing each of the selected stats.
+Oltre ai due tiri per le Statistiche, al giocatore verrà data la possibilità di scegliere una Statistica che riceverà un bonus extra di +1. Ma non è tutto, i giocatori hanno anche la possibilità di chiedere la benedizione di Gaia per altre due Statistiche. La benedizione di Gaia ha una probabilità del 50% di aumentare ciascuna delle Statistiche selezionate.
 
 ![LevelChoices](https://user-images.githubusercontent.com/91647016/136141588-22152842-d295-4859-964f-80376be24d26.png)
 
-In summary, when a Hero levels up the following will happen: 1. The game will roll for each stat to increase based on the Hero's primary stat growth parameters and any bonuses provided by attunement crystals. Successful rolls receive +1 to that stat. 2. The game will roll for each stat to increase based on the Hero's secondary stat growth parameters and any bonuses provided by attunement crystals. Successful rolls receive +1 to that stat. 3. The game provides a +1 bonus to the stat selected by the player. 4. The game will roll for the two stats selected to seek Gaia's blessing. Each has a 50% chance of success. Successful rolls receive +1 to that stat.
+Riassumendo, quando un Eroe sale di livello, accadrà quanto segue:&#x20;
 
-Stamina has a fixed growth rate for all Heroes. It increases by 1 every even level.
+1\. Il gioco "tirerà un dado" per aumentare ogni Statistica in base ai parametri di crescita delle Statistiche Primarie dell'Eroe ed aggiungerà qualsiasi bonus fornito dai Cristalli di Sintonizzazione. I tiri di successo ottengono +1 per quella Statistica.&#x20;
 
-Lastly, HP and MP increases are calculated after other stat bonuses are applied. Each class has its own chances for small, regular, or large increases in HP and MP. For example, a Wizard has higher chances for large MP increases, but lower chances for large HP increases.
+2\. Il gioco "tirerà un dado" per aumentare ogni statistica in base ai parametri di crescita delle Statistiche Secondarie dell'Eroe ed aggiungera qualsiasi bonus fornito dai Cristalli di Sintonizzazione. I tiri di successo ottengono +1 per quella Statistica.
+
+3\. Il gioco fornisce un bonus di +1 alla Statistica selezionata dal giocatore.&#x20;
+
+4\. Il gioco "tirerà un dado" per le due Statistiche selezionate per chiedere la benedizione di Gaia. Ognuno dei due tiri ha una probabilità del 50% di successo. I tiri di successo conferiscono +1 alla Statistica selezionata .
+
+La Stamina ha un tasso di crescita fisso per tutti gli eroi. Aumenta di 1 ogni livello pari.
+
+Infine, gli incrementi di HP e MP vengono calcolati dopo l'applicazione di altri bonus alle Statistiche. Ogni Classe ha le proprie possibilità di crescere in HP ed MP in diverse quantità (piccole, normali o grandi). Ad esempio, un Mago ha maggiori possibilità di grandi aumenti in MP, ma minori possibilità di grandi aumenti in HP.

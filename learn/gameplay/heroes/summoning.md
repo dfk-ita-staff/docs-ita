@@ -49,22 +49,22 @@ Gli Eroi di grado superiore hanno iniziato ad arrivare nel Regno!!!
 
 ![Hero Rank Summoning Chart](../../../.gitbook/assets/Summoning.png)
 
-L'evocazione con eroi che hanno i geni appropriati può portare a una mutazione genetica che si traduce nell'evocazione di un eroe di grado più alto dal Portale. La tabella sopra mostra le combinazioni genetiche necessarie per Evocare ogni possibile classe di Eroe.
+L'Evocazione con Eroi che hanno i geni appropriati può portare a una mutazione genetica che si traduce nell'Evocazione di un Eroe di grado più alto. La tabella sopra mostra le combinazioni genetiche necessarie per evocare ogni possibile Classe di Eroe.
 
-Heroes of higher rank have better starting stats and stat growth parameters than those of ranks below them. However, a side effect of their advanced abilities is that they require more Gaia's Tears to perform a Summon than Heroes of lower ranks. In addition, higher-ranked Heroes are more difficult for the Portal to have a chance to locate, so higher-ranked Heroes have lower maximum summons than lower-ranked ones. The chart above displays the Gaia's Tears requirements for higher-ranked and the maximum number of Summons that higher-ranked classes can receive on Summoning.
+Gli Eroi di rango superiore hanno Statistiche iniziali e parametri di crescita delle Statistiche migliori rispetto a quelli di rango base. Tuttavia, un effetto collaterale delle loro abilità avanzate è che richiedono più Gaia's Tears per eseguire un'Evocazione rispetto agli Eroi di rango base. Inoltre, gli Eroi di rango più alto sono più difficili da individuare per il Portale, quindi gli Eroi di rago più alto hanno evocazioni massime inferiori rispetto a quelli di rango base. La tabella sopra mostra i requisiti di Gaia's Tears per le Evocazioni di livello più alto e il numero massimo di Evocazioni che le classi di rango più alto possono ricevere durante l'Evocazione.
 
-Basic - Warrior, Knight, Thief, Archer, Priest, Wizard, Monk, Pirate
+**Base** - Warrior, Knight, Thief, Archer, Priest, Wizard, Monk, Pirate
 
-Advanced - Paladin, Dark Knight, Summoner, Ninja
+**Advanced** - Paladin, Dark Knight, Summoner, Ninja
 
-Elite - Dragoon, Sage
+**Elite** - Dragoon, Sage
 
-Exalted - DreadKnight
+**Exalted** - DreadKnight
 
 ## Hero Rarity
 
-The rarity level of a Summoned Hero is impacted by the rarity of the two Heroes used to infuse the Summoning Crystal.
+Il livello di Rarità di un Eroe evocato è influenzato dalla Rarità dei due Eroi usati per infondere il Cristallo di Evocazione.
 
 ![Summoning Rarity](<../../../.gitbook/assets/Summoner Combo.png>)
 
-The chart above illustrates the likelihood that pairing Heroes of given rarities will result in a Summoned Hero of a given rarity. For further information on this topic, visit the [Rarity](rarity.md) topic page.
+La tabella sopra illustra le probabilità che l'abbinamento di Eroi di determinate Rarità si traduca in un Eroe evocato di una determinata Rarità. Per ulteriori informazioni su questo argomento, visitare la pagina dell'argomento [Rarity](rarity.md).
