@@ -1,14 +1,14 @@
 ---
-description: Luglio/Agosto 2021
+description: July/August 2021
 ---
 
 # Phase 0.5 - Community ✔️
 
-Durante la fase di pre-lancio ci concentreremo sulla costruzione della community e sull'entusiasmo per il lancio del progetto.
+During the pre-launch phase we will be focused on building the community and building excitement for the project launch.
 
 * Discord Community
 * Twitter Account
 * White paper
 * Gitbook Docs
 * Website
-* Articoli Medium riguardo tokenomics e funzionalità future
+* Medium articles about tokenomics and upcoming features

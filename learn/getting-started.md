@@ -1,13 +1,13 @@
-# Getting Started
+# Come Cominciare
 
 ![Welcome to DeFI Kingdoms!](../.gitbook/assets/Nolan.JPG)
 
-DeFi Kingdoms is a browser-based game, so all you need to set up your system is a compatible browser with the MetaMask extension installed.
+DeFi Kingdoms è un gioco basato su browser, quindi tutto ciò di cui hai bisogno per configurare il tuo sistema è un browser compatibile con l'estensione MetaMask.
 
-The DeFi Kingdoms [tutorial](https://defikingdoms.com/tutorial.html) walks you through downloading a compatible browser and installing the MetaMask extension.
+Il [tutorial](https://defikingdoms.com/tutorial.html) di DeFi Kingdoms ti guida attraverso il download di un browser compatibile e l'installazione dell'estensione MetaMask.
 
-Additionally, you will need Harmony ONE tokens for gas fees, and to convert to JEWEL within the game. The [tutorial](https://defikingdoms.com/tutorial.html) also gives further info on purchasing Harmony ONE tokens. In general, you will need to find an exchange like Binance, Crypto.com, or Kucoin that trades ONE, and then you will need to send the ONE to your MetaMask wallet.
+Inoltre, avrai bisogno dei token ONE nella Harmony Mainnet per le commissioni del gas e per convertirli in JEWEL all'interno del gioco. Il [tutorial](https://defikingdoms.com/tutorial.html) fornisce anche ulteriori informazioni sull'acquisto di token Harmony ONE. In generale, dovrai trovare uno Exhange come Binance, Crypto.com o Kucoin che scambi ONE, quindi dovrai inviare ONE al tuo portafoglio MetaMask.
 
-Once you have your browser and MetaMask set up, and you have some Harmony ONE in your wallet, you will be able to enter the game. You can take a [tour](https://defikingdoms.com/tour.html) of the Kingdoms to learn more about the game, and explore these documents for in-depth information about a multitude of topics.
+Una volta che avrai configurato il tuo browser e MetaMask, ed avrai un po' di Harmony ONE nel tuo portafoglio, sarai in grado di entrare nel gioco. Puoi fare un tour delle varie zone della mappa per saperne di più sul gioco. Puoi leggere questi documenti per avere informazioni approfondite su una moltitudine di argomenti.
 
-As you explore, you will probably have plenty of questions. The [Gameplay](gameplay/) section offers a lot of information, and you may find what you need in the [FAQ](faq.md) section as well. Additionally, the best place for real-time discussion and support is in our Discord server. Links to this and our other social media sites can be found on our homepage.
+Mentre esplori, probabilmente avrai molte domande. La sezione [Gameplay](gameplay/) offre molte informazioni e potresti trovare ciò di cui hai bisogno anche nella sezione [FAQ](faq.md). Inoltre, il posto migliore per discussioni e supporto in tempo reale è nel nostro server [Discord](https://discord.com/invite/defikingdoms). I collegamenti a questo e ad altri nostri siti di social media possono essere trovati sulla nostra [homepage](https://defikingdoms.com).

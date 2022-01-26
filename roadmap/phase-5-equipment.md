@@ -2,18 +2,18 @@
 description: Q1 2022
 ---
 
-# Phase 5 - Equipment
+# Phase 5 - Equipaggiamenti
 
-Heroes will be able to craft and equip and trade Equipment NFTs. These equipment pieces range in rarity from Common to Mythic and will grant new passive and active abilities to your heroes, as well as increase their stats.
+Gli Eroi saranno in grado di creare, equipaggiare e scambiare Equipaggiamenti NFT. Questi Equipaggiamenti variano in rarità da Common a Mythic, e garantiranno nuove abilità passive e attive ai tuoi Eroi, oltre ad aumentare le loro statistiche.
 
-Information about Amulet reward raffle:
+Informazioni sulla lotteria per Amulets:
 
-* 100 Mythic Amulets for raffle winners who hold an average of 5000 xJEWELs from Dec 15th to Jan 15th.
-* 200 Legendary Amulets for raffle winners who hold an average of 1000 xJEWELs from Dec 15th to Jan 15th.
-* 500 Rare Amulets for raffle winners who hold an average of 100 xJEWELs from Dec 15th to Jan 15th.
+* 100 Mythic Amulets per i vincitori della lotteria che detengono una media di 5000 xJEWELs in Bank dal 15 Dicembre al 15 Gennaio.
+* 200 Legendary Amulets per i vincitori della lotteria che detengono una media di 1000 xJEWELs in Bank dal 15 Dicembre al 15 Gennaio.
+* 500 Rare Amulets per i vincitori della lotteria che detengono una media di 100 xJEWELs in Bank dal 15 Dicembre al 15 Gennaio.
 
-Each extra multiple of the amount will receive 2 extra entries in the raffle, and players can only win 1 of the prizes.
+Ogni multiplo extra dell'importo riceverà 2 tickets extra nella lotteria ed i giocatori potranno vincere solo 1 dei premi.
 
-Snapshots will take place multiple times a day via an automated bot, and will be averaged together at the end.
+Gli Snapshots si svolgeranno più volte al giorno tramite un bot automatizzato e alla fine verrà calcolata la media.
 
-In order to qualify for the snapshot, players must have at least 100 xJEWELs by Dec 15th.
+Per qualificarsi  nello Snapshot, i giocatori devono avere almeno 100 xJEWEL in Bank entro il 15 Dicembre.

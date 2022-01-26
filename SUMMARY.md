@@ -11,14 +11,14 @@
   * [Phase 0.5 - Community ✔️](roadmap/phase-0.5-community.md)
   * [Phase 1 - Capitale & JEWELs ✔️](roadmap/phase-1-dex.md)
   * [Phase 2 - Heroes & Quests](roadmap/phase-2-heroes.md)
-  * [Phase 3 - Kingdoms & Land](roadmap/phase-3-world-map-and-land.md)
-  * [Phase 4 - Buildings](roadmap/phase-4-buildings.md)
-  * [Phase 5 - Equipment](roadmap/phase-5-equipment.md)
+  * [Phase 3 - Kingdoms & Lands](roadmap/phase-3-world-map-and-land.md)
+  * [Phase 4 - Edifici, Costruzioni](roadmap/phase-4-buildings.md)
+  * [Phase 5 - Equipaggiamenti](roadmap/phase-5-equipment.md)
   * [Phase 6 - Battle System, PVE & PVP](roadmap/phase-6-battle-system-pve-and-pvp.md)
 
 ## Learn
 
-* [Getting Started](learn/getting-started.md)
+* [Come Cominciare](learn/getting-started.md)
 * [Gameplay](learn/gameplay/README.md)
   * [Heroes](learn/gameplay/heroes/README.md)
     * [Summoning](learn/gameplay/heroes/summoning.md)
