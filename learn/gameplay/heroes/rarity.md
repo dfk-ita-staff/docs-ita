@@ -1,10 +1,10 @@
 # Rarity
 
-Ogni Eroe ha non solo una Classe, una Sottoclasse ed una serie di [Statistiche](stats.md), ma anche un livello di Rarità. Ogni **Evocazione** ha la possibilità di produrre Eroi di ogni livello di Rarità; tuttavia, l'[Evocazione](summoning.md) con Eroi più rari aumenta la probabilità che l'Eroe evocato sia di una Rarità superiore. Gli Eroi rari sono ambiti perché ogni livello di Rarità corrisponde a bonus ai livelli delle Statistiche di base del tuo Eroe.
+Each Hero has not only a class, subclass, and array of [stats](stats.md), but a rarity level as well. Every **Summon** has a chance to produce Heroes of each rarity level; however, [Summoning](summoning.md) with more rare Heroes increases the likelihood that the Summoned Hero will be of a higher rarity. Rare Heroes are coveted because each level of rarity corresponds with bonuses to the base stat levels of your Hero.
 
-## Indicatore di Rarità
+## Rarity Indicators
 
-I seguenti simboli appaiono al centro della carta del tuo Eroe, indicando il loro livello di rarità.
+The following symbols appear in the center of your Hero's card, indicating their rarity level.
 
 ![](<../../../.gitbook/assets/common gem 1.png>) **Common**
 
@@ -24,14 +24,14 @@ I seguenti simboli appaiono al centro della carta del tuo Eroe, indicando il lor
 
 ![](<../../../.gitbook/assets/mythic gem 1.png>) **Mythic**
 
-## Rarità ed Evocazioni
+## Rarity and Summoning
 
-La rarità di un Eroe è influenzata dalla rarità degli Eroi usati per infondere il Cristallo di Evocazione.
+The rarity of a Hero is influenced by the rarity of the Heroes used to infuse the Summoning Crystal.
 
 ![Summoning Rarity](<../../../.gitbook/assets/Summoner Combo.png>)
 
-Per informazioni complete sull'Evocazione, visita la pagina principale dell'argomento [Evocazione](summoning.md).
+For full information on Summoning, visit the main [Summoning](summoning.md) topic page.
 
-## Shiny - Brillante
+## Shininess
 
-Oltre alla Rarità, ogni Eroe ha una piccola possibilità di essere Brillante, che aumenta se gli Eroi evocatori sono anch'essi Brillanti. Essere Brillanti rende gli Eroi più popolari tra le dame e i gentiluomini di corte, assicura che non calpestino mai lo sterco. Non ha altro uso nel gioco.
+In addition to rarity, every Hero has a small chance of being shiny, which increases if the Summoning Heroes are also shiny. Being shiny makes heroes more popular among the ladies and gentlemen of the court, ensures they never step in dung, and makes their character card shiny. It has no other use in the game.
