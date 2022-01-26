@@ -36,7 +36,7 @@
   * [Portal](learn/gameplay/portal.md)
   * [Tavern](learn/gameplay/tavern.md)
   * [Marketplace](learn/gameplay/marketplace.md)
-* [Lore](learn/lore.md)
+* [Trama](learn/lore.md)
 * [FAQ](learn/faq.md)
 
 ## Important
