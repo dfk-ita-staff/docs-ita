@@ -1,15 +1,14 @@
 ---
 description: >-
-  A smart contract audit is an extensive methodical examination and analysis of
-  a smart contract's code that is used to interact with a cryptocurrency or
-  blockchain, discover errors, and suggest fixes.
+  Un audit dello Smart Contract è un esame approfondito del codice di uno Smart
+  Contract che viene utilizzato per interagire con una criptovaluta o
+  blockchain, per scoprire errori e suggerire correzioni
 ---
 
-# Audit Results
+# Risultati Audit Sicurezza
 
-The DeFi Kingdoms core team is committed to ensuring the safety and stability of the project. We will continue to put forth our best efforts to acquire the appropriate audits, reviews, and additional governance as needed.
+Il core team di DeFi Kingdoms si impegna a garantire la sicurezza e la stabilità del progetto. Continueremo a impegnarci al massimo per acquisire gli Audit, le revisioni e governance aggiuntiva, se necessario.
 
-**Results from our efforts will be added to the list below as they are completed:**
+**I risultati dei nostri sforzi verranno aggiunti all'elenco seguente una volta completati:**
 
 ![](../.gitbook/assets/solidity-finance.png) [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/)\
-\\
