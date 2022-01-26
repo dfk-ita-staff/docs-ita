@@ -4,9 +4,9 @@ nella mappa del regno di DeFi Kingdoms, ci sarà una fornitura limitata di appez
 
 ### **Comprare e Vendere**
 
-Location, location, location! Not all land plots are created equal. Some will provide more of one resource than another, based on the nearby forests, stone, and other resources. Some will be closer to the capital, requiring less stamina to participate in certain quests. Others will be closer to various dungeons and quests, requiring less travel time to complete those.
+Lotti, lotti, lotti! Non tutti i lotti di terreno sono uguali. Alcuni forniranno più di una risorsa rispetto ad un'altra in base alle foreste vicine, alla pietra e ad altre risorse. Alcuni lotti saranno più vicini alla capitale, quindi richiederanno meno stamina per partecipare a determinate missioni (si, ci saranno gli spostamenti). Altri saranno più vicini a vari dungeon e missioni, richiedendo meno tempo di viaggio per completarli.
 
-If you wish to sell your kingdom NFT someday as property values go up, you can do so. Kingdoms can be bought and sold in the real estate office at the capital, including all of the improvements made in the kingdom, and all of the buildings built there.
+Se un giorno vorrai vendere il tuo regno NFT, quando i valori delle proprietà aumenteranno, potrai farlo. I regni possono essere acquistati e venduti nell'ufficio immobiliare della capitale, inclusi tutti i miglioramenti apportati nel regno e tutti gli edifici costruitici sopra.
 
 ### **Immobili**
 
