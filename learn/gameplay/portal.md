@@ -1,17 +1,17 @@
 # Portal
 
-The sacred **Portal** is the location where new [Heroes](heroes/) are **Summoned** from Gaia's Inner Grove.
+Il **Portal** è il luogo in cui i nuovi [Eroi](heroes/) vengono **Evocati** dai meandri di Gaia.
 
 ![The Summoning Portal](../../.gitbook/assets/Capture.JPG)
 
-[Summoning](heroes/summoning.md) requires two Heroes, whose genetics impact what kind of new Hero will emerge. The class and subclass of both these Heroes, along with their [stats](heroes/stats.md), [rarity](heroes/rarity.md), and main [profession](professions/) are passed to the new Hero, although mutations can occur that lead to unexpected results!
+L'[Evocazione](heroes/summoning.md) richiede due Eroi, la cui genetica influisce sulle fattezze dell'Eroe che emergerà. La Classe e la Sottoclasse di entrambi questi eroi, insieme alle loro [Statistiche](heroes/stats.md), [Rarità](heroes/rarity.md) e [Professione principale](professions/) vengono trasferite al nuovo Eroe, anche se possono verificarsi mutazioni che portano a risultati inaspettati!
 
-In order to Summon, you must own at least one Hero. The second can be rented from another player, or it can be another Hero that you own. The **Arch Druid**'s interface allows you to select these Heroes, as well as to spend additional resources to increase the stats of the new Hero (only available when the Summoning Heroes are higher level).
+Per evocare, devi possedere almeno un Eroe. Il secondo può essere noleggiato da un altro giocatore o può essere un altro Eroe che possiedi. L'interfaccia dell'**Arch Druid** ti consente di selezionare questi Eroi, oltre a spendere risorse aggiuntive per aumentare le statistiche del nuovo Eroe evocato (disponibile solo quando gli Eroi evocatori sono di livello 5 o  superiore).
 
 ![Summoning Menu](../../.gitbook/assets/SummonMenu.JPG)
 
-The cost of Summoning is determined by the generation of the Summoning Hero, along with how many times it's Summoned before. Additionally, the minimum number of **Gaia's Tears** is determined by the rank of the Summoning Heroes. Summoning costs increase for higher generations and with each Summon that an individual Hero has performed.
+Il costo dell'Evocazione è determinato dalla Generazione dell'Eroe evocatore, insieme a quante volte è stato evocato prima. Inoltre, il numero minimo di **Gaia's Tears** è determinato dal rango degli Eroi evocatori. I costi di Evocazione aumentano per le Generazioni superiori e con ogni Evocazione eseguita da ogni singolo Eroe.
 
-Once the Heroes are selected and any additional Tears or **Enhancement Stones** have been added, the Arch Druid will provide an **Infused Crystal** which you can take to the **Summoner** to open. Once you open the Crystal, you can view your new Hero in all its glory!
+Una volta selezionati gli Eroi e aggiunte eventuali **Gaia's Tears** o **Enhancement Stones** aggiuntive, l'Arch Druid fornirà un **Cristallo Infuso** che potrai portare al **Summoner** per aprirlo. Una volta aperto il Cristallo, potrai vedere il tuo nuovo Eroe attraversare il Portale in tutta la sua gloria!
 
-You should be aware that all Heroes have a Summoning limit, except for gen0 Heroes. Additionally, Heroes have a cooldown after Summoning that increases with each successive Summon. Further details on Summoning including cost breakdowns, class trees, and rarity chances can be found on the main [Summoning](heroes/summoning.md) topic page.
+Dovresti essere consapevole del fatto che tutti gli Eroi hanno un limite di Evocazioni disponibile, fatta eccezione per gli Eroi di Generazione 0. Inoltre, gli Eroi hanno un tempo di recupero dopo l'Evocazione che aumenta con ogni Evocazione successiva. Ulteriori dettagli sull'Evocazione, tra cui la ripartizione dei costi, gli alberi delle Classi e le probabilità di Rarità, possono essere trovati nella pagina principale dell'argomento dell'[Evocazione](heroes/summoning.md).
