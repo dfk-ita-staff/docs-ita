@@ -4,17 +4,17 @@ description: Information about the Level 0 Fishing quest.
 
 # Fishing
 
-**Fishing quests** can yield **fish**, **Gaia's Tears**, **Shvās runes**, **Blue Eggs**, **experience** toward a Hero's next level, and fishing **skill increases**. All fish may be sold in the [Marketplace](../marketplace.md) to Vendor Zada for **gold** or swapped with Trader Matoya for **JEWEL**. Some fish are ingredients in **potions**, which can be crafted with Alchemist Herbert. All fish may have uses that are unknown as yet.
+Le missioni di Fishing possono produrre pesce, Gaia's Tears, rune Shvās, Uova Blu, EXP per il livello successivo dell' Eroe e nel mentre l'abilità Fishing cresce di livello. Tutti i pesci possono essere venduti nel mercato al venditore Zada ​​per Gold o scambiati con il Trader Matoya per JEWEL. Alcuni pesci sono ingredienti di Pozioni, che possono essere create con l'Alchimista Herbert. Tutti i pesci possono avere usi ancora sconosciuti.
 
-Fishing quests cost 7 Stamina per attempt, reduced to 5 Stamina for Heroes with **fishing** as their main profession. Groups of up to 6 Heroes can be sent to fish at once and the number of attempts that each Hero will make is chosen in the quest window. Every member in the group is limited to the highest number of quest attempts that any given member can attempt, so it is most efficient to group Heroes wisely.
+Le missioni di Fishing costano 7 Stamina per tentativo, 5 Stamina per gli Eroi con Fishing come Professione principale. Possono essere mandati a pescare contemporaneamente gruppi di massimo 6 Eroi, ed il numero di tentativi che ciascun Eroe farà viene scelto nella finestra della Quest. Ogni membro del gruppo è limitato al numero più alto di tentativi che un dato membro del gruppo può affrontare, quindi è più efficiente raggruppare saggiamente gli Eroi.
 
-After selecting the participating Heroes and choosing the number of quest attempts, the quest window will display the required time for the party to complete all of its fishing runs. Additional groups of Heroes may be queued and commence their quests as soon as the prior party has finished.
+Dopo aver selezionato gli Eroi partecipanti ed aver scelto il numero di tentativi di missione, la finestra della Quest mostrerà il tempo necessario al gruppo per completare tutti i suoi tentativi di pesca. E' possibile mettere in coda altri gruppi di Eroi per iniziare le loro missioni non appena il gruppo precedente ha terminato.
 
-Heroes receive bonuses to the base drop rates of fishing items based on their **AGI**, **LCK**, and **fishing** scores as well as whether **fishing** is their main skill.
+Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi AGI, LCK e Fishing,  e se la pesca è la loro abilità principale.
 
-### **Level 0 item drop rates:**
+### **Drop Rates Quest livello 0:**
 
-**Nothing** - 50%
+**Niente** - 50%
 
 **Bloater** - 23%
 
