@@ -51,29 +51,29 @@ Il contratto di JEWEL su Harmony è: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F
 
 ### Dove posso trovare il prezzo corrente / market cap di JEWEL?
 
-You can see the view the current price and market cap of JEWEL [in the game](https://game.defikingdoms.com) by clicking on your profile picture.
+Puoi vedere il prezzo attuale e la capitalizzazione di mercato di JEWEL nel [gioco](https://game.defikingdoms.com/#/) facendo clic sull'immagine del tuo profilo in alto a sinistra.
 
-You can also see charts and stats for JEWEL and all other tokens and pairings on the DeFi Kingdoms DEX at: [https://info.defikingdoms.com/](https://info.defikingdoms.com).
+Puoi anche vedere grafici e statistiche di JEWEL e di tutti gli altri token e abbinamenti su DeFi Kingdoms DEX su: [https://info.defikingdoms.com/](https://info.defikingdoms.com/home) o su [https://dexscreener.com/harmony/defikingdoms](https://dexscreener.com/harmony/defikingdoms).
 
 ### Cosa posso fare con i miei JEWEL?
 
-JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](../how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](../how-defi-kingdoms-works/the-gardens.md), or depositing in the Bank vault.
+JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gioco implicano la ricezione o la spesa di JEWEL, sia che si tratti di acquistare/vendere Eroi, guadagnare tramite Quests, [fornire liquidità al DEX](../how-defi-kingdoms-works/decentralized-exchange.md) e [farmare nei giardini](../how-defi-kingdoms-works/the-gardens.md) o depositare nel caveau della [Bank](gameplay/bank.md).
 
-You can also [read more about the JEWEL token](../how-defi-kingdoms-works/jewel-token.md) and its tokenomics.
+[Qui](faq.md#jewel-token) puoi leggere di più sul token JEWEL e la sua tokenomic.
 
 ## GIOCO & MECCANICHE DEX
 
 ### Qual'è la differenza tra Bank e Gardens?
 
-[The Bank](https://defikingdoms.medium.com/the-bank-depositing-staking-and-claiming-rewards-6ff5368f91ff) is a single-staking pool for JEWEL. When you stake your JEWEL in the Bank, you receive a proportional amount of xJEWEL. Since the ratio between JEWEL and xJEWEL only goes up, when you withdraw from the Bank, you will always receive more JEWEL than you put in!
+La [Bank](gameplay/bank.md) è un pool a partecipazione unica per JEWEL. Quando depositi i tuoi JEWEL nella Banca, ricevi un importo proporzionale di xJEWEL. Poiché il rapporto tra JEWEL ed xJEWEL non fa che aumentare, quando prelevi dalla Banca riceverai sempre più JEWEL di quello che hai messo!
 
-[The Gardens](../how-defi-kingdoms-works/the-gardens.md) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
+I [Gardens](../how-defi-kingdoms-works/the-gardens.md) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL in cambio dello staking di questi token.
 
-While the Gardens provide higher returns than the Bank, this comes with greater risk, including impermanent loss (IL) if the value of the tokens in the pair changes relative to one another. You can learn more about impermanent loss from [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) or by [watching this video](https://www.youtube.com/watch?v=HPGSSkOq0-Q).
+Sebbene i Gardens forniscano rendimenti più elevati rispetto alla Bank, ciò comporta un rischio maggiore, inclusa l'Impermanent Loss (IL) se il valore dei token nella coppia cambia l'uno rispetto all'altro. Puoi saperne di più sulla perdita temporanea da [Binance Academy](https://academy.binance.com/it/articles/impermanent-loss-explained) o [guardando questo video.](https://www.youtube.com/watch?v=qkaBCIpvfIg\&t=1297s)
 
 ### Qual'è la differenza tra JEWEL e xJEWEL?
 
-JEWEL is DFK's primary token, used for many in-game transactions. When you deposit JEWEL into the Bank, you receive xJEWEL, which is DFK's governance token. Holding xJEWEL also makes you eligible to receive community airdrops and other rewards.
+JEWEL è il token principale di DFK, utilizzato per molte transazioni in-game. Quando depositi JEWEL nella banca, ricevi xJEWEL, che è il token di governance di DFK. Tenere xJEWEL ti rende anche idoneo a ricevere airdrop per la Community ed altri premi.
 
 ### Quanto è l'APR / tasso di interesse della Bank?
 
