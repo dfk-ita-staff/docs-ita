@@ -10,17 +10,18 @@ description: >-
 
 ### Cos'è DeFi Kingdoms?
 
-DeFi Kingdoms (DFK) is a game, a decentralized exchange (DEX), a liquidity pool (LP) opportunity, and a market of rare utility-driven NFTs, that all plays out seamlessly in the incredibly nostalgic form of fantasy pixel art.
+DeFi Kingdoms (DFK) è un gioco, uno Exchange decentralizzato (DEX), un'opportunità in pool di liquidità (LP), ed un mercato di rari NFT basati su utility, tutto si svolge perfettamente nella forma incredibilmente nostalgica della pixel art fantasy.
 
-DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and additional features are constantly being added.
+DFK è stato lanciato il 22 agosto 2021 come DEX con opportunità di farming LP ed è in costante sviluppo.
 
-[https://game.defikingdoms.com/](https://game.defikingdoms.com)
+[https://game.defikingdoms.com/](https://game.defikingdoms.com)\
+[https://beta.defikingdoms.com/](https://game.defikingdoms.com)
 
 ### Che Blockchain utilizza DeFi Kingdoms?
 
-DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges, including Binance, Kucoin, Crypto.com, and others.
+DeFi Kingdoms utilizza la blockchain del protocollo Harmony e la sua moneta nativa ONE. ONE può essere acquistata sulla maggior parte dei principali exchange, inclusi Binance, Kucoin, Crypto.com e altri.
 
-For information on how to setup your MetaMask wallet, please refer to our tutorial [here](https://defikingdoms.com/tutorial.html) or Harmony's documentation [here](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).
+Per informazioni su come configurare il tuo portafoglio MetaMask, fai riferimento al nostro [tutorial](https://defikingdoms.com/tutorial.html) o alla documentazione di [Harmony](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).
 
 ### Che cos'è DeFi e che cos'è un Exchange Decentralizzato (DEX)?
 
