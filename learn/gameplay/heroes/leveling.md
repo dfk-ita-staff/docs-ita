@@ -28,13 +28,13 @@ Oltre ai due tiri per le Statistiche, al giocatore verrà data la possibilità d
 
 Riassumendo, quando un Eroe sale di livello, accadrà quanto segue:&#x20;
 
-1\. Il gioco "tirerà un dado" per aumentare ogni Statistica in base ai parametri di crescita delle Statistiche Primarie dell'Eroe ed aggiungerà qualsiasi bonus fornito dai Cristalli di Sintonizzazione. I tiri di successo ottengono +1 per quella Statistica.&#x20;
+**1.** Il gioco "tirerà un dado" per aumentare ogni Statistica in base ai parametri di crescita delle Statistiche Primarie dell'Eroe ed aggiungerà qualsiasi bonus fornito dai Cristalli di Sintonizzazione. I tiri di successo ottengono +1 per quella Statistica.&#x20;
 
-2\. Il gioco "tirerà un dado" per aumentare ogni statistica in base ai parametri di crescita delle Statistiche Secondarie dell'Eroe ed aggiungera qualsiasi bonus fornito dai Cristalli di Sintonizzazione. I tiri di successo ottengono +1 per quella Statistica.
+**2.** Il gioco "tirerà un dado" per aumentare ogni statistica in base ai parametri di crescita delle Statistiche Secondarie dell'Eroe ed aggiungera qualsiasi bonus fornito dai Cristalli di Sintonizzazione. I tiri di successo ottengono +1 per quella Statistica.
 
-3\. Il gioco fornisce un bonus di +1 alla Statistica selezionata dal giocatore.&#x20;
+**3.** Il gioco fornisce un bonus di +1 alla Statistica selezionata dal giocatore.&#x20;
 
-4\. Il gioco "tirerà un dado" per le due Statistiche selezionate per chiedere la benedizione di Gaia. Ognuno dei due tiri ha una probabilità del 50% di successo. I tiri di successo conferiscono +1 alla Statistica selezionata .
+**4.** Il gioco "tirerà un dado" per le due Statistiche selezionate per chiedere la benedizione di Gaia. Ognuno dei due tiri ha una probabilità del 50% di successo. I tiri di successo conferiscono +1 alla Statistica selezionata .
 
 La Stamina ha un tasso di crescita fisso per tutti gli eroi. Aumenta di 1 ogni livello pari.
 

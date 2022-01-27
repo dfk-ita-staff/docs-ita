@@ -6,21 +6,15 @@ Ogni Eroe ha non solo una Classe, una Sottoclasse ed una serie di [Statistiche](
 
 I seguenti simboli appaiono al centro della carta del tuo Eroe, indicando il loro livello di rarità.
 
+
+
 ![](<../../../.gitbook/assets/common gem 1.png>) **Common**
 
-***
-
-\*\*\*\* ![](<../../../.gitbook/assets/uncommon gem 1.png>) **Uncommon**
-
-***
+&#x20;![](<../../../.gitbook/assets/uncommon gem 1.png>) **Uncommon**
 
 ![](<../../../.gitbook/assets/rare gem 1.png>) **Rare**
 
-***
-
 ![](<../../../.gitbook/assets/legendary gem 1.png>) **Legendary**
-
-***
 
 ![](<../../../.gitbook/assets/mythic gem 1.png>) **Mythic**
 

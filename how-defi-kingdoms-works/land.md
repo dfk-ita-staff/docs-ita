@@ -1,5 +1,7 @@
 # Kingdoms
 
+![](<../.gitbook/assets/Schermata 2022-01-27 alle 15.15.48.png>)
+
 nella mappa del regno di DeFi Kingdoms, ci sarà una fornitura limitata di Lotti di terreno disponibili per l'acquisto. Non solo potrai acquistare un Lotto di terra per te stesso, ma potrai anche costruirci sopra il tuo Regno, investendo in potenziamenti che ti forniranno un mantenimento passivo di risorse! La tua terra ospiterà il tuo Regno in sviluppo e sarà chiaramente visibile a tutti dalla mappa del mondo.
 
 ### **Lotti - Comprare e Vendere**
