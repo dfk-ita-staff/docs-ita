@@ -103,107 +103,104 @@ Il [programma delle fees di prelievo](../how-defi-kingdoms-works/the-gardens.md#
 
 ### Che cosa può fare un Eroe? Me ne serve uno?
 
-Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be sent on quests, engage in professions, and eventually fight each other in PVP. While you can still use the DEX, Gardens, and Bank without a hero, we think everyone will enjoy the opportunities that heroes bring!
+Gli Eroi sono fondamentali per il gameplay in DeFi Kingdoms. Possono Evocare nuovi Eroi, essere inviati in missioni, impegnarsi in professioni ed infine combattersi tra loro in PVP. Anche se puoi usare il DEX, i Gardens e la Bank senza un Eroe, pensiamo che tutti apprezzeranno le opportunità che hanno da offrire!
 
-[Read more about Heroes.](../how-defi-kingdoms-works/the-heroes.md)
+Leggi di più riguard gli Eroi [qui](../how-defi-kingdoms-works/the-heroes.md).
 
 ### Dove posso acquisire un Eroe?
 
-Heroes are available for purchase from other players in the Tavern, and can also be rented at the Portal to assist in the summoning process!
-
-[Read more about buying, selling, and renting out heroes at the Tavern.](https://defikingdoms.medium.com/the-tavern-buy-sell-and-rent-out-heroes-85a661b23b6f)
+Gli Eroi possono essere acquistati da altri giocatori nella [Tavern](gameplay/tavern.md) e possono anche essere noleggiati dal [Portal](gameplay/portal.md), per assistere nel processo di [Evocazione](gameplay/heroes/summoning.md).
 
 ### Qual'è la differenza tra Eroi Gen0 e Generazioni successive?
 
-Gen0 heroes are the originators of all other heroes in the game, and as such, are limited in number and highly collectible. Because they are responsible for seeding genes to all other Heroes, Gen0 heroes do not have a limit on the number of times that they can summon.
+Gli Eroi Gen0 sono i creatori di tutti gli altri Eroi del gioco e, in quanto tali, sono presenti in numero limitato e rari, questo li rendi anche altamente collezionabili. Poiché sono responsabili della semina dei geni a tutti gli altri Eroi, gli Eroi Gen0 non hanno un limite al numero di volte che possono evocare.
 
 ### Ci saranno altre vendite di Eroi Gen0?
 
-The Gen0 hero sale took place on September 30 and all 2000 heroes sold out in 11 minutes! As these heroes are limited and collectible, there will not be another Gen0 hero sale like this one.
+La vendita degli Eroi Gen0 è avvenuta il 30 Settembre e tutti i 2000 Eroi sono andati esauriti in 11 minuti! Poiché questi Eroi sono NFT collezionabili unici, non ci sarà un'altra vendita di Eroi Gen0 come quella passata.
 
-However, since Gen0 heroes are the only way to seed new genes into the hero pool, as DFK expands to new realms and blockchains, we may eventually sell additional Gen0 heroes in the future to introduce new classes or other hero features into the game. This will be done carefully as to not dilute the value of existing Gen0 heroes.
+Tuttavia, poiché gli Eroi Gen0 sono l'unico modo per seminare nuovi geni nella Pool Genetica degli Eroi, man mano che DFK si espande a nuovi Regni e blockchain, potremmo eventualmente vendere altri Eroi Gen0 in futuro per introdurre nuove Classi o altre caratteristiche per gli Eroi nel gioco. Questo sarà fatto con attenzione per non diluire il valore degli Eroi Gen0 esistenti.
 
 ### Come evoco un nuovo Eroe?
 
-If you have two heroes, you can go to the Portal and summon another one. You will need some JEWEL and at least 20 Gaia's Tears.
+Se hai due Eroi, puoi andare al Portal ed evocarne un altro. Avrai bisogno di alcuni JEWEL ed almeno 20 Gaia's Tears.
 
-If you only have one hero, you can rent one from another player at the Portal to assist in the summoning process.
+Se hai un solo Eroe, puoi noleggiarne uno da un altro giocatore per assisterlo nel processo di Evocazione.
 
-[Read more about Hero Summoning.](gameplay/heroes/summoning.md)
+Leggi di più sule Evocazioni [qui](gameplay/heroes/summoning.md).
 
 ### Dove posso ottenere le Gaia's Tears per evocare un nuovo Eroe?
 
-Gaia's Tears are available as loot drops from Professions Quests. Fishing, Foraging, Gardening, and Mining all have a chance to drop Gaia's Tears.
+Le Gaia's Tears sono disponibili come bottino dalle [Profession Quests](gameplay/professions/). La [Pesca](gameplay/professions/fishing.md), la [Raccolta](gameplay/professions/foraging.md), il [Giardinaggio](gameplay/professions/gardening.md) e l'Estrazione Mineraria ([Gold](gameplay/professions/gold-mining.md) e [JEWEL](gameplay/professions/jewel-mining.md)), tutte hanno la possibilità di ricompensare con Gaia's Tears.
 
-Additionally, Gaia's Tears can be earned in the Wishing Well mini-quests, which can be accessed near the castle on the overworld map screen or within the Meditation Circle zone. As long as you have at least one hero, you can send them on a Wishing Well quest, which will deplete their stamina and gift you with a possibility to receive some of Gaia's Tears. There is a chance to receive no tears per quest.
+Inoltre, le Gaia's Tears possono essere guadagnate nella mini-quest del Pozzo dei Desideri (Whishing Well), a cui è possibile accedere vicino al Castello nella schermata della mappa del mondo o all'interno della zona del Circolo di Meditazione (Meditation Circle). Se possiedi un Eroe, puoi inviarlo in una missione del Pozzo dei Desideri, che esaurirà la sua Stamina e ti darà la possibilità di ricevere alcune Gaia's Tears. C'è la possibilità di non ricevere Tears per la missione.
 
-Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace.
+Alcuni giocatori hanno aggiunto le loro Gaia's Tears (DFKTEARS) ad una Pool di Liquidità (JEWEL-DFKTEARS) nel Marketplace.
 
 ### Non ho ricevuto il nuovo Eroe dopo l'Evocazione!
 
-Once you infuse a crystal with the essence of two heroes, it must be brought to the summoning portal to bring the hero forth from the Inner Grove.
+Dopo aver infuso un Cristallo con l'essenza di due Eroi, deve essere portato al Portale di Evocazione per richiamare l'eroe dai meandri del Bosco Interno.
 
-If you do not see the Infused Crystal after the summoning transaction successfully goes through, please try to refresh the page and open MetaMask for a few seconds (preferably on the Asset overview). You may have to try several times, but this should allow you to see the Infused Crystal.
+Se non vedi il Cristallo Infuso dopo che la transazione di Evocazione è andata a buon fine, prova ad aggiornare la pagina ed aprire MetaMask per alcuni secondi (preferibilmente nella schermata delle risorse). Potrebbe essere necessario provare più volte, ma questo dovrebbe permetterti di visualizzare il Cristallo Infuso.
 
 ## STATS EROI, QUESTS, E PROFESSIONI
 
 ### Quali sono le diverse Rarità e che cosa comportano?
 
-Summoned heroes may be of the following rarities, indicated by the color of the card border:
+Gli Eroi evocati possono essere delle seguenti [Rarità](gameplay/heroes/rarity.md), indicate dal colore del bordo della carta:
 
-* Mythic (Purple)
-* Legendary (Orange)
-* Rare (Blue)
-* Uncommon (Green)
-* Common (Grey)
+* **Mythic (Viola)**
+* **Legendary (Arancione)**
+* **Rare (Blu)**
+* **Uncommon (Verde)**
+* **Common (Grigio)**
 
-Higher rarity heroes are summoned with increased stat values. Heroes that are Rare or above also receive additional stat increases every 5 levels. [Read more about hero stat values](https://defikingdoms.medium.com/breaking-down-advanced-hero-classes-stats-and-rarities-ce745dc5024).
+Gli Eroi di Rarità superiore vengono evocati con valori delle [Statistiche](gameplay/heroes/stats.md) aumentati. Anche gli Eroi rari o superiori ricevono bonus aggiuntivi alle Stats ogni 5 livelli.
 
 ### Come posso sapere se il mio Eroe è forte?
 
-We think that every hero is valuable to someone! But different heroes' classes and stat combinations may lend themselves to certain activities, whether particular quests, professions, or PVP. Look to see if your hero's boosted stats (in green, blue, or purple) align with their chosen profession (in green) or their [class/subclass's associated stats](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=785443787) (Google Docs link).
+Pensiamo che ogni Eroe sia prezioso! Ma diverse Classi di Eroi e combinazioni di Statistiche possono essere più utili a determinate attività, siano esse particolari Quests, Professions o PVP. Controlla se le Statistiche potenziate del tuo Eroe (in verde, blu o viola) sono in linea con la Profession scelta (in verde) o con le [Statistiche associate alla sua Classe/Cottoclasse](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=2115998520)
 
-Certain classes, professions, rarities, and visual attributes may also be more desirable to players depending on their playstyle.
+Alcune Classi, Professioni, Rarità e Caratteristiche visive possono anche essere più desiderabili per i giocatori a seconda del loro stile di gioco.
 
 ### Cosa sono le Stats Verdi/Blu/Viola del mio Eroe?
 
-Each hero's genes give it a boost to two stats, and make it naturally inclined toward one profession. Stat boosts are shown in green and blue on the back of the Hero card. If the two stat boosts are both for the same stat, it will be shown in purple.
+I geni di ogni Eroe danno un aiuto a due Statistiche e lo rendono naturalmente incline ad una Professione. I geni delle Statistiche sono mostrati in **verde** e **blu** sul retro della carta Eroe. Se i due geni sono entrambi per la stessa Statistica, verrà mostrato in **viola**.
 
-There are two kinds of stat boosts, and every hero has one of each:
+Esistono due tipi di geni delle Statistiche, ed ogni Eroe ne ha uno per ciascuno:
 
-* A one-time +2 bonus to that stat number (green)
-* An ongoing +2% bonus to the hero's Primary Growth Stat Value and +4% bonus to their Secondary Growth Stat Value (blue). These values increase the likelihood that stat will increase when the hero levels up.
+* Un bonus una tantum +2 a quella Statistica (**verde**)
+* Un bonus continuo del +2% al valore di crescita primaria della Statistica dell'Eroe, ed un bonus del +4% al suo valore di crescita secondario della Statistica dell'Eroe (**blu**). Questi valori aumentano la probabilità che le Statistiche aumentino quando l'Eroe sale di livello.
 
-Heroes will receive a nice bonus when doing profession quests that match their profession gene (green).
+Gli Eroi riceveranno un bonus quando effettuano Profession Quests che corrispondono al loro gene della Professione (**verde**).
 
 ### Come funzionano le Professioni?
 
-Four different professions are available to heroes: Gardening, Mining, Fishing, and Foraging. Each profession has a profession skill associated with it which has a chance to increase each time a hero does an associated profession quest. As those skills increase, so too will the hero’s ability to earn rewards from that profession. In addition, each of these professions has a gene associated with it (in green on your hero card). Heroes receive additional benefits when doing profession quests that match their profession gene.
+Per gli Eroi, sono disponibili quattro diverse [Professions](gameplay/professions/): Gardening, Mining, Fishing e Foraging. Ogni Professione ha un'abilità (skill) ad essa associata che ha la possibilità di aumentare ogni volta che un Eroe esegue una missione di Professione associata. Man mano che queste abilità aumenteranno, aumenterà anche la capacità dell'Eroe di guadagnare ricompense da quella Professione. Inoltre, ciascuna di queste Professioni ha un gene ad essa associato (in **verde** sulla tua carta Eroe). Gli Eroi ricevono vantaggi aggiuntivi quando svolgono missioni di Professione che corrispondono al loro gene di Professione.
 
-Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a fixed rate every 10 minutes, as indicated in the quest menu, allowing the hero to work these quests over longer periods of time until they run out of stamina or until you stop them. Foraging and Fishing quests are shorter, consuming a larger amount of mana over a minimal duration, as shown in the quest menu. Fishing and foraging quests allow you to queue multiple quest attempts in one transaction, up to the maximum amount allowed by your hero's stamina. Heroes recover stamina at a rate of 1 every 20 minutes. _Note: Heroes cannot recover stamina while engaged in a quest._
-
-[Read more about Professions.](gameplay/professions/)
+Impegnarsi in una Profession Quest consuma la Stamina del tuo Eroe. Il Mining ed il Gardening drenano la Stamina ad una velocità fissa di 10 minuti, come indicato nel menu delle Quests. Questo consente all'Eroe di svolgere queste missioni per periodi di tempo più lunghi, fino a quando non esaurisce la sua Stamina o fino a quando la missione non viene interrotta manualmente. Le missioni di Foraging e Fishing sono più brevi e consumano una maggiore quantità di Stamina per una durata minima, come mostrato nel menu delle Quests. Le missioni di Fishing e Foraging ti consentono di mettere in coda più tentativi di missioni in una transazione, fino all'importo massimo consentito dalla Stamina del tuo Eroe (in base al consumo di Stamina dato dalla presenza o meno del gene di Professione). Gli Eroi recuperano Stamina ad una velocità fissa di 1 ogni 20 minuti.\
+**Nota: gli Eroi non possono recuperare Stamina mentre sono impegnati in una missione.**
 
 ## KINGDOMS / LANDS
 
 ### Cosa sono i Lotti di terreno?
 
-Kingdoms, or land plots, will be an additional kind of NFT that is limited in quantity and highly collectable. As the world map is revealed, players will be able to purchase plots of land where buildings can be constructed, and transactions and quests can take place. Land owners will receive a portion of the revenue generated on their plots!
+I Regni, o Lotti, saranno un ulteriore tipo di NFT limitato in quantità ed altamente collezionabile. Man mano che la mappa del mondo verrà rivelata, i giocatori potranno acquistare Lotti di terreno dove potranno essere costruiti Edifici, e dove potranno aver luogo transazioni e missioni. I proprietari terrieri riceveranno una parte delle entrate generate dai loro Lotti!
 
 ### Come posso acquistare un Lotto o partecipare all'airdrop?
 
-25 Kingdom Plots will be given to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Nov 13, 2021 _(For each additional 5000 xJEWEL a player has in the bank, they will get 2 extra entries in the drawing of random winners.)_
+25 Kingdom Plots sono stati assegnati a vincitori casuali, persone che possedevano almeno 5.000 xJEWEL nel proprio conto in Bank entro il 13 Novembre 2021 (per ogni 5000 xJEWEL aggiuntivi che un giocatore aveva in Bank, ha ricevuto 2 tickets extra nell'estrazione di vincitori casuali.)
 
-25 more Kingdom Plots will be given to random winners from people who had at least 1,000 xJEWEL tokens in their bank balance by Nov 13, 2021. Additional snapshots will be taken every 8 to 12 hours for 4 weeks, ending on Dec 11, 2021. Total number of entries will be determined by average amount of xJEWEL across all snapshots for all holders who qualified during the initial snapshot. _(For each additional 1,000 xJEWEL a player has in the bank, they will receive 2 extra entries.)_
+Altri 25 Kingdom Plots verranno assegnati a vincitori casuali, persone che possedevano almeno 1.000 xJEWEL nel proprio conto in Bank entro il 13 Novembre 2021. Ulteriori Snapshots sono stati effettuati ogni 8-12 ore per 4 settimane, fino all'11 Dicembre 2021. Il numero totale di iscrizioni sarà determinato dalla quantità media di xJEWEL in tutti gli Snapshot, per tutti i titolari che si sono qualificati durante lo Snapshot iniziale. (Per ogni 1.000 xJEWEL in più che un giocatore aveva in Bank, riceverà 2 tickets extra.)
 
-Land plots will be available for purchase during [Phase 3 of the Roadmap](https://github.com/dfk-ita-staff/docs/blob/master/roadmap/phrase-3-world-map-and-land.md). **Only players who actively participate in the game by leveling heroes and doing quests/professions will be eligible to purchase land plots.**
+I Lotti di terreno saranno disponibili per l'acquisto durante la [Fase 3 della Roadmap](../roadmap/phase-3-world-map-and-land.md). Solo i giocatori che partecipano attivamente al gioco livellando gli Eroi e svolgendo missioni/professioni potranno acquistare Lotti di terreno.
 
 ## VARIE
 
 ### DeFi Kindoms ha passato Verifiche di Sicurezza?
 
-Yes, an audit by [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) has already been completed. The team is committed to ensuring the safety and stability of the project, and additional [audits](../important/audit-results.md) are in the works.
+Sì, un Audit di [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) è già stato completato. Il team si impegna a garantire la sicurezza e la stabilità del progetto e sono in corso ulteriori [Audit](../important/audit-results.md).
 
 ### Il team di sviluppo è doxxed?
 
-The team is not currently doxxed for personal reasons, though many of them would like to do so in the future. They encourage you to view their [track record of development](../roadmap/) and commitment to the project, examine the [smart contract audit](../important/audit-results.md), attend the weekly team AMAs (Mondays at 18:00 UTC) on our [Discord server](https://discord.gg/defikingdoms), and, of course, to [DYOR](../important/dyor-disclaimer.md).
+Il Team non è attualmente doxxato per motivi personali, anche se molti di loro vorrebbero farlo in futuro. Ti incoraggiamo a visualizzare il nostro [track record di sviluppo](../roadmap/) ed impegno per il progetto, ad esaminare l'[Audit dello Smart Contract](../important/audit-results.md), a partecipare agli AMA settimanali dei vari reparti del Team (lunedì alle 20:00 CEST (Roma) sul nostro server [Discord](https://discord.gg/defikingdoms) e, naturalmente, a [DYOR](../important/dyor-disclaimer.md).

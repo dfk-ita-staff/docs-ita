@@ -1,5 +1,5 @@
 ---
-description: Information about the Level 0 Fishing quest.
+description: Informazioni riguardanti le Fishing Quests di livello 0
 ---
 
 # Fishing
@@ -30,4 +30,4 @@ Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi
 
 **Shimmerscale** - 0.915%
 
-**Blue Egg** - 0.01%
+**Uovo Blu** - 0.01%

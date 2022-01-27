@@ -36,6 +36,9 @@
   * [Portal](learn/gameplay/portal.md)
   * [Tavern](learn/gameplay/tavern.md)
   * [Marketplace](learn/gameplay/marketplace.md)
+  * [Alchemist](learn/gameplay/alchemist.md)
+  * [Docks](learn/gameplay/docks.md)
+  * [Castle](learn/gameplay/castle.md)
 * [Trama](learn/lore.md)
 * [FAQ - Frequently Asked Questions](learn/faq.md)
 

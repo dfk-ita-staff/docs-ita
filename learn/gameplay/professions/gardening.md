@@ -1,5 +1,5 @@
 ---
-description: Information about the Level 0 Gardening quest.
+description: Informazioni riguardanti le Gardening Quests di livello 0
 ---
 
 # Gardening

@@ -1,5 +1,5 @@
 ---
-description: Information about the Level 0 JEWEL Mining quest.
+description: Informazioni riguardanti le JEWEL Mining Quests di livello 0
 ---
 
 # JEWEL Mining
