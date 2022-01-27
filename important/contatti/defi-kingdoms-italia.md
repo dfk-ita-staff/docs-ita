@@ -4,6 +4,8 @@ description: I contatti ufficiali della Community Italiana!
 
 # DeFi Kingdoms ITALIA
 
+![](../../.gitbook/assets/DFKITALIAbanner.jpeg)
+
 #### DISCORD**:** [**https://discord.gg/Fh3H7CMdbS**](https://discord.gg/Fh3H7CMdbS)****
 
 **TWITTER:** [**https://twitter.com/DefiKingdoms\_IT**](https://twitter.com/DefiKingdoms\_IT)

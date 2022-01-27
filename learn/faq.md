@@ -201,6 +201,6 @@ I Lotti di terreno saranno disponibili per l'acquisto durante la [Fase 3 della R
 
 Sì, un Audit di [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) è già stato completato. Il team si impegna a garantire la sicurezza e la stabilità del progetto e sono in corso ulteriori [Audit](../important/audit-results.md).
 
-### Il team di sviluppo è doxxed?
+### Il team di sviluppo è doxxed (nomi reali rivelati)?
 
-Il Team non è attualmente doxxato per motivi personali, anche se molti di loro vorrebbero farlo in futuro. Ti incoraggiamo a visualizzare il nostro [track record di sviluppo](../roadmap/) ed impegno per il progetto, ad esaminare l'[Audit dello Smart Contract](../important/audit-results.md), a partecipare agli AMA settimanali dei vari reparti del Team (lunedì alle 20:00 CEST (Roma) sul nostro server [Discord](https://discord.gg/defikingdoms) e, naturalmente, a [DYOR](../important/dyor-disclaimer.md).
+Il Team non è attualmente doxxato per motivi personali anche se molti di loro vorrebbero farlo in futuro. Alcuni di loro lo sono con i volti in quanto DeFi Kingdoms ha già partecipato a diverse conferences globali come [BitBasel](https://twitter.com/bitbaselmiami), [DCentralCon](https://twitter.com/DcentralCon) ([foto di gruppo ;)](https://twitter.com/AbrahamOne4all/status/1466435426395246598)),e tante altre. Ti incoraggiamo a visualizzare il nostro [track record di sviluppo](../roadmap/) ed impegno per il progetto, ad esaminare l'[Audit dello Smart Contract](../important/audit-results.md), a partecipare agli AMA settimanali dei vari reparti del Team (lunedì alle 20:00 CEST (Roma) sul nostro server [Discord](https://discord.gg/defikingdoms) e, naturalmente, a [DYOR](../important/dyor-disclaimer.md).

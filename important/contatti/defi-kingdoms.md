@@ -4,6 +4,8 @@ description: I contatti ufficiali!
 
 # DeFi Kingdoms
 
+![](../../.gitbook/assets/DFKBANNERLOGO.jpeg)
+
 #### **WEBSITE:** [**https://defikingdoms.com/**](https://defikingdoms.com)****
 
 **DISCORD:** [**https://discord.gg/defikingdoms**](https://discord.gg/defikingdoms)****
