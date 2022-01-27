@@ -1,5 +1,5 @@
-# Come funziona DeFi Kingdoms
+# How DeFi Kingdoms Works
 
-DeFi Kingdoms mira ad essere un intero ecosistema di funzionalità che include il token JEWEL, il DEX, i Gardens e le nostre risorse NFT (Heroes, Equipment e Kingdoms), nonché le attività di gioco che possono essere eseguite con tali NFT.&#x20;
+DeFi Kingdoms aims to be a whole ecosystem of features that includes the JEWEL token, the DEX, the Gardens, and our NFT assets (Heroes, Equipment, and Kingdoms), as well as the game activities that can be performed with those NFTs.
 
-Analizziamoli, uno per uno.
+Let's break them down, one by one.

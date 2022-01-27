@@ -8,15 +8,15 @@ Stiamo andando un passo oltre rispetto agli NFT standard poiché i nostri Eroi N
 
 ### **Evocazioni e Trading**&#x20;
 
-Gli eroi vengono evocati attraverso un portale dimensionale ed ogni nuovo eroe sarà completamente unico. Ci sono combinazioni di parti praticamente infinite che compongono ogni Eroe NFT unico, quindi non ce ne saranno mai due uguali, nelle statistiche o nell'aspetto.
+Gli Eroi vengono evocati attraverso un Portale dimensionale ed ogni nuovo Eroe sarà completamente unico. Ci sono combinazioni di parti praticamente infinite che compongono ogni Eroe NFT, quindi non ce ne saranno mai due uguali, nelle statistiche o nell'aspetto.
 
-La Taverna è il posto dove comprare e vendere Eroi. I giocatori possono anche offrire i loro Eroi in affitto nella Taverna, per essere usati da altri giocatori per evocare.
+La Tavern è il posto dove comprare e vendere Eroi. I giocatori possono anche offrire i loro Eroi in affitto nella Taverna, per essere usati da altri giocatori per evocare.
 
-Puoi acquistare Eroi nella Taverna, ma puoi anche evocarne di nuovi combinando i geni dei tuoi attuali Eroi! Con le Evocazioni non saprai mai esattamente quale tipo di eroe uscirà dal portale dopo: potresti finire con un NFT estremamente raro e prezioso scambiabile.
+Puoi acquistare Eroi nella Tavern, ma puoi anche evocarne di nuovi combinando i geni dei tuoi attuali Eroi! Con le Evocazioni non saprai mai esattamente quale tipo di eroe uscirà dal portale dopo: potresti finire con un NFT estremamente raro e prezioso scambiabile.
 
 ### **Genetica degli Eroi**
 
-Gli Eroi hanno due set di geni, uno per l'aspetto e l'altro per i loro attributi giocabili (come professione, classe, sottoclasse, abilità passive e attive e altro ancora). Durante l'evocazione, l'eroe appena evocato acquisirà casualmente i geni da entrambi gli eroi sorgente utilizzati nell'evocazione. C'è anche la possibilità di ottenere mutazioni nei geni, che si traducono in nuove abilità e classi rare!
+Gli Eroi hanno due set di geni, uno per l'aspetto e l'altro per i loro attributi giocabili (come Professione, Classe, Sottoclasse, abilità passive e attive e altro ancora). Durante l'Evocazione, l'Eroe appena evocato acquisirà casualmente i geni da entrambi gli Eroi sorgente utilizzati nell'evocazione. C'è anche la possibilità di ottenere mutazioni nei geni, che si traducono in nuove abilità e Classi rare!
 
 ### **Equipaggiamenti**
 
