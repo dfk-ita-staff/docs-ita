@@ -1,47 +1,47 @@
 # Stats
 
-Heroes come in many varieties, and it would help to understand more about them before picking one. Let’s start with a hero's stats. The capabilities of all heroes are governed by the same set of stats. Each hero’s starting stats will be determined by their class, their stat bonus genes, their rarity, and bonuses applied during the summoning process (granted by the summoners spending extra Gaia’s tears and/or certain enhancement stones).
+Gli Eroi sono disponibili in molte varietà e bisogna capirne di più prima di sceglierne uno. Cominciamo con le Statistiche di un Eroe. Le capacità di tutti gli Eroi sono regolate dalla stessa serie di Statistiche. Le Statistiche iniziali di ogni Eroe saranno determinate dalla sua Classe, dai suoi geni bonus delle Statistiche, dalla sua Rarità e dai bonus applicati durante il processo di Evocazione (concessi spendendo Gaia's Tears extra e/o alcune Enhancement stones).
 
-## Hit Points (HP)
+## Hit Points (HP) - Punti Vita
 
-Hit Points is the measure of how alive a hero is. If they become injured, they will need to rest or use potions to recover HP. If this goes to 0, the hero can become exhausted, or worse…
+I **Punti Vita** sono la misura di quanta Salute ha un Eroe. Se si feriscono, dovranno riposare o usare pozioni per recuperare HP. Se questo va a 0, l'eroe può esaurirsi, o peggio...
 
-## Mana Points (MP)
+## Mana Points (MP) - Punti Mana
 
-Mana Points are used to cast spells and use skills. When this reaches zero, the hero can no longer use spells or skills until they use a potion.
+I **Punti Mana** sono usati per lanciare incantesimi ed usare abilità. Quando questo raggiunge lo zero, l'eroe non può più usare incantesimi o abilità finché non usa una pozione.
 
 ## Stamina
 
-Stamina is used to perform quests. If the hero has no stamina, they must rest naturally (1 stamina recovered every 20 minutes) or go to the inn and pay JEWELs to drastically increase their stamina recovery rate.
+La **Stamina** viene utilizzata per eseguire le missioni. Se l'Eroe non ha Stamina, deve riposare naturalmente (1 Stamina recuperata ogni 20 minuti) o andare alla locanda e pagare JEWEL per aumentare drasticamente il suo tasso di recupero della Stamina.
 
-## Strength (STR)
+## Strength (STR) - Forza
 
-Strength adds a multiplier to various actions, especially physical attacks and skills.
+La **Forza** aggiunge un moltiplicatore a varie azioni, in particolare attacchi fisici e abilità.
 
-## Dexterity (DEX)
+## Dexterity (DEX) - Destrezza&#x20;
 
-Dexterity plays a lesser role in defense, and modifies attack damage from certain weapons.
+La **Destrezza** gioca un ruolo minore nella difesa e modifica il danno d'attacco di alcune armi.
 
-## Agility (AGI)
+## Agility (AGI) - Agilità
 
-Agility determines the time between a hero’s actions in combat. It also plays a role in evasion.
+L'**Agilità** determina il tempo che intercorre tra le azioni di un Eroe in combattimento. Svolge anche un ruolo nell'evasione.
 
-## Vitality (VIT)
+## Vitality (VIT) - Vitalità
 
-Vitality is the primary stat that impacts HP growth, and has added benefits to recovering from certain debuffs.
+La **Vitalità** è la Statistica principale che influisce sulla crescita di HP ed aggiunge vantaggi nel recupero da determinati debuff.
 
-## Endurance (END)
+## Endurance (END) - Resistenza
 
-Endurance adds to defense, and increases debuff resistance.
+La **Resistenza** si aggiunge alla difesa ed aumenta la resistenza ai debuff.
 
-## Intelligence (INT)
+## Intelligence (INT) - Intelligenza
 
-Intelligence adds a multiplier to various actions, especially skills and magic, and modifies magic evasion. This stat also plays into how much MP is gained when leveling up.
+L'**Intelligenza** aggiunge un moltiplicatore a varie azioni, in particolare abilità e magia, e modifica l'evasione magica. Questa Statistica gioca anche un ruolo sulla quantità di MP guadagnati quando si sale di livello.
 
-## Wisdom (WIS)
+## Wisdom (WIS) - Saggezza&#x20;
 
-Adds a multiplier to magic attacks and skills and increases magic defense. This stat also plays into how much MP is gained when leveling up (to a lesser extent than INT).
+La **Saggezza** aggiunge un moltiplicatore agli attacchi e alle abilità magiche ed aumenta la difesa magica. Questa Statistica gioca un ruolo anche sulla quantità di MP guadagnati quando si sale di livello (in misura minore rispetto a INT).
 
-## Luck (LCK)
+## Luck (LCK) - Fortuna
 
-The higher a hero’s luck, the more likely it is for a hero to land a critical strike. Luck also slightly increases chances to get rare items and plays a small role in evasion.
+Maggiore è la **Fortuna** di un Eroe, più è probabile che metta a segno un colpo critico. La Fortuna aumenta anche leggermente le possibilità di ottenere oggetti rari e gioca un piccolo ruolo nell'evasione.

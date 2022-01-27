@@ -1,5 +1,7 @@
 # Marketplace
 
+![](<../../.gitbook/assets/Schermata 2022-01-27 alle 13.03.40.png>)
+
 Il **Marketplace** è il centro del commercio in DeFi Kingdoms. Il **Trader Matoya** è il volto del nostro **DEX**, dove i giocatori possono scambiare tokens sulla blockchain di Harmony. Quasi tutti i nuovi giocatori visiteranno Matoya per scambiare altri token con **JEWEL**, e spesso i giocatori scambieranno token per creare **semi (LP tokens)** o per facilitare una moltitudine di strategie di investimento.
 
 A proposito di **semi**, anche il **Druid Lazarus** si trova nel Marketplace. Aiuta a creare **semi (token LP)** che rappresentano una quota in una Pool di Liquidità. Questi semi possono quindi essere piantati nei giardini per iniziare a guadagnare ricompense dalle **Pool di Liquidità incentivate**.\

@@ -2,8 +2,8 @@
 description: Q1 2022
 ---
 
-# Phase 4 - Buildings
+# Phase 4 - Edifici, Costruzioni
 
-Buildings can be built within your kingdom and upgraded to increase their bonuses. Resource buildings can be built next to resource nodes to allow your kingdom to begin accumulating the resources you need to build more buildings and craft rare equipment for heroes.
+Gli Edifici possono essere costruiti all'interno del tuo regno e migliorati per aumentare i loro bonus. Gli Edifici delle risorse possono essere costruiti accanto ai punti di interesse delle risorse per consentire al tuo regno di iniziare ad accumulare le risorse necessarie per costruire più Edifici e creare Equipaggiamenti rari per gli Eroi.
 
-Other buildings can provide passive bonuses to your heroes, improving their quest efficiency and stats. Still others can allow you to gain higher multipliers on your staking rewards in the gardens. Buildings are a fun and exciting way to increase your effectiveness in the game.\\
+Altri Edifici possono fornire bonus passivi ai tuoi Eroi, migliorandone l'efficienza e le statistiche per le missioni. Altri ancora possono permetterti di ottenere moltiplicatori più alti per le tue ricompense di staking nei Gardens. Gli Edifici sono un modo divertente ed eccitante per aumentare la tua efficacia nel gioco.
