@@ -1,7 +1,9 @@
 # Alchemist
 
-l'Alchimista Hebert ha aperti le porte del suo emporio alchemico  superato i controlli di sicurezza, ed è ora autorizzato a produrre all'interno di Serendale! \
-Ha pensato di cimentarsi in alcune nuove ricette... Perché non fare scorta, in preparazione delle prossime avventure?
+l'Alchimista Herbert ha aperto le porte del suo emporio alchemico, superato i controlli di sicurezza, ed è ora autorizzato a distillare Pozioni nel Regno di Serendale! \
+Ha pensato di cimentarsi in alcune nuove ricette... Perché non fare scorta in preparazione delle prossime avventure?
+
+![](<../../.gitbook/assets/Schermata 2022-01-27 alle 13.11.25.png>)
 
 ## Pozioni
 
@@ -11,7 +13,7 @@ E' già possibile acquistare alcune Pozioni con Gold tramite il Vendor Zada o sc
 
 Al momento sono disponibili le seguenti **Pozioni**:
 
-* **Health Vial:** Ricarica una piccola quantità di HP.
+* **Health Vial:** Ricarica una piccola quantità di HP.&#x20;
 * **Full Health Potion:** Ricarica completamente gli HP.
 * **Mana Vial:** Ricarica una piccola quantità di MP.
 * **Full Mana Potion:** Ricarica completamente gli MP.
