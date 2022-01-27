@@ -1,10 +1,10 @@
 # I Gardens
 
-Fondamentalmente, i giardini sono un luogo in cui depositare i tuoi LP per farmare token JEWEL. Guadagnerai JEWEL da utilizzare nel gioco per NFT rari e altri oggetti SOLO depositando gettoni LP! È una parte potente del gioco ed è davvero divertente.
+I Gardens sono il luogo dove depositare i tuoi LP per "coltivare" (farming) token JEWEL. Guadagnerai JEWEL da spendere nel gioco per acquisire NFT rari ed altri oggetti **SOLO** depositando tokens LP nei Gardens! È una parte molto potente del gioco ed è davvero divertente.
 
 ![](<../.gitbook/assets/Cute Henry.gif>)
 
-La nostra visione sui pool di liquidità è unica. Stiamo costruendo un mondo epico dove i giardini rappresentano coppie di token e pool di liquidità. All'interno di ogni giardino, sarai in grado di vedere la tua parte della quota totale depositata (il tuo share della pool). Il giardiniere si occupa della cura delle tue piante (questo rappresenta il conto alla rovescia tra i blocchi estratti) e una volta effettuato il raccolto, il giardiniere deposita il tuo frutti (reward) nel magazzino (wallet), ovvero i JEWEL prodotti dal farming dei tuoi LP. **Ci saranno modi per aumentare la tua resa attraverso oggetti di gioco che ti forniranno maggiori premi in token JEWEL!**
+La nostra visione sui Pool di Liquidità è unica. Stiamo costruendo un mondo epico dove i Gardens rappresentano coppie di token e Pool di Liquidità. All'interno di ogni Giardino, sarai in grado di vedere la tua quota totale depositata (il tuo share della Pool). Il giardiniere si occupa della cura delle tue piante (questo rappresenta il conto alla rovescia tra i blocchi estratti) ed una volta effettuato il raccolto, deposita i tuoi frutti (Rewards) nel magazzino (Wallet), ovvero i JEWEL prodotti dal farming dei tuoi LP. **Ci saranno modi per aumentare la tua resa attraverso oggetti di gioco che ti forniranno maggiori premi in token JEWEL!**
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/gardens.gif)
 
