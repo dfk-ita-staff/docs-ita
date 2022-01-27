@@ -3,13 +3,13 @@
 l'Alchimista Hebert ha aperti le porte del suo emporio alchemico  superato i controlli di sicurezza, ed è ora autorizzato a produrre all'interno di Serendale! \
 Ha pensato di cimentarsi in alcune nuove ricette... Perché non fare scorta, in preparazione delle prossime avventure?
 
-### Pozioni
+## Pozioni
 
 Le Pozioni forniranno diversi benefici in combattimento, come aumentare la velocità d'attacco o ripristinare la salute. Non è tutto qui, ci sono Pozioni dagli effetti più disparati quindi fai i tuoi esperimenti e scopri quali Pozioni preparare per aumentare l'efficacia del tuo Eroe!
 
 E' già possibile acquistare alcune Pozioni con Gold tramite il Vendor Zada o scambiarle per JEWEL tramite il Trader Matoya, nel [Marketplace](marketplace.md).
 
-Al momento sono disponibili le seguenti Pozioni:
+Al momento sono disponibili le seguenti **Pozioni**:
 
 * **Health Vial:** Ricarica una piccola quantità di HP.
 * **Full Health Potion:** Ricarica completamente gli HP.
