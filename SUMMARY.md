@@ -46,7 +46,7 @@
 
 * [Risultati Audit Sicurezza](important/audit-results.md)
 * [Disclaimer](important/dyor-disclaimer.md)
-* [Crediti](important/credits.md)
 * [Contatti](important/contatti/README.md)
   * [DeFi Kingdoms](important/contatti/defi-kingdoms.md)
   * [DeFi Kingdoms ITALIA](important/contatti/defi-kingdoms-italia.md)
+* [Crediti](important/credits.md)
