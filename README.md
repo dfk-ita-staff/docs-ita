@@ -20,4 +20,4 @@ Siamo grandi fan dell'innovazione che sta accadendo nella DeFi e nella tecnologi
 
 ### Un team dedicato e una visione condivisa
 
-Volevamo un dex che permettesse ai partecipanti, non solo di possedere una criptovaluta, ma di possederne una che sia utilizzabile, preziosa e che faccia guadagnare in molti modi divertenti. Abbiamo confezionato elementi DeFi in un gioco divertente e sinergico, fornendo ai possessori di token JEWEL un'esperienza coinvolgente e significativa. Siamo qui per il lungo termine, pianificando le funzionalità per le fasi a venire per impostare questa community e proiettarci verso la massima magnificenza. :)
+Volevamo un DEX che permettesse ai partecipanti di possedere non solo una criptovaluta, ma di detenerne una che fosse utilizzabile, preziosa e che faccesse guadagnare in molti modi divertenti. Abbiamo confezionato elementi DeFi in un gioco divertente e sinergico, fornendo ai possessori di tokens JEWEL un'esperienza coinvolgente e significativa. Siamo qui per restare molto a lungo, e stiamo pianificando le funzionalità per le fasi a venire, per crescere insieme a questa community e proiettarci verso la massima magnificenza. :)
