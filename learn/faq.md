@@ -25,29 +25,29 @@ Per informazioni su come configurare il tuo portafoglio MetaMask, fai riferiment
 
 ### Che cos'è DeFi e che cos'è un Exchange Decentralizzato (DEX)?
 
-DeFi, or Decentralized Finance, is an ecosystem of financial applications built on top of blockchain networks that aims to provide financial services without a centralized authority.
+DeFi, o Decentralized Finance, è un ecosistema di applicazioni finanziarie costruito su reti blockchain che mira a fornire servizi finanziari senza un'autorità centralizzata.
 
-A decentralized exchange, or DEX, allows users to exchange funds through smart contracts without relinquishing custody over them until the exchange is finalized. Liquidity is provided to DEXes by individuals who supply a token pair (e.g. ONE and JEWEL) to a liquidity pool, which is then used by the DEX to facilitate trades on that pair.
+Uno exchange decentralizzato, o DEX, consente agli utenti di scambiare fondi tramite smart contracts senza rinunciare alla custodia fino al completamento dello scambio. La liquidità viene fornita ai DEX da individui che forniscono una coppia di token (ad es. ONE e JEWEL) a un pool di liquidità, che viene quindi utilizzata dal DEX per facilitare le negoziazioni su quella coppia.
 
-Users who provide liquidity in this way receive Liquidity Pool (LP) Tokens, which can often be staked to earn additional rewards, such as in [DFK's Gardens](../how-defi-kingdoms-works/the-gardens.md).
+Gli utenti che forniscono liquidità in questo modo ricevono gettoni Liquidity Pool (LP), che spesso possono essere utilizzati per guadagnare premi aggiuntivi, come nei [DFK's Gardens](../how-defi-kingdoms-works/the-gardens.md).
 
-You can read more about [decentralized finance](https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi) and [decentralized exchanges](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex) at Binance Academy.
+Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com/it/articles/the-complete-beginners-guide-to-decentralized-finance-defi) e gli [scambi decentralizzati](https://academy.binance.com/it/articles/what-is-a-decentralized-exchange-dex) su Binance Academy.
 
 ### Quanto costa cominciare a giocare?
 
-The game itself is free, however there is a transaction cost (gas) every time you interact with the blockchain such as when you make a profile entering the game. Thanks to Harmony's very low fees, these are a fraction of a cent.
+Il gioco in se è gratuito, tuttavia c'è un costo di transazione (gas) ogni volta che interagisci con la blockchain, come quando crei un profilo entrando nel gioco. Grazie alle commissioni molto basse di Harmony, queste sono una frazione di centesimo.
 
-Once you're in the game, you can spend as much or as little as you'd like by adding to the liquidity pools in the Marketplace and staking LP Tokens in the Gardens or JEWEL in the Bank.
+Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../how-defi-kingdoms-works/the-gardens.md) o JEWEL in [Bank](gameplay/bank.md).
 
-You can also spend JEWEL to purchase Hero NFTs in the Tavern. They can be used to collect resources through their Professions, and can be paired with other Heroes to Summon new Heroes from the Inner Grove.
+Puoi anche spendere JEWEL per acquistare [Eroi NFT](gameplay/heroes/) nella [Tavern](gameplay/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](gameplay/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](gameplay/heroes/summoning.md) nuovi Eroi dal [Portal](gameplay/portal.md).
 
 ## JEWEL TOKEN
 
 ### Come posso acquistare JEWEL?
 
-After logging into [https://game.defikingdoms.com/](https://game.defikingdoms.com) you can purchase JEWEL at the Marketplace from the Trader, Merchant Matoya, with your ONE or with most of Harmony's other tokens.
+Dopo aver effettuato l'accesso a [https://game.defikingdoms.com/](https://game.defikingdoms.com/#/) potrai acquistare JEWEL al [Marketplace](gameplay/marketplace.md) dal commerciante, il Trader Matoya. Potrai scambiare i tuoi ONE, o la maggior parte degli altri token di Harmony.
 
-The contract address for JEWEL is: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
+Il contratto di JEWEL su Harmony è: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
 ### Dove posso trovare il prezzo corrente / market cap di JEWEL?
 
