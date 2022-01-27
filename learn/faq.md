@@ -77,27 +77,27 @@ JEWEL è il token principale di DFK, utilizzato per molte transazioni in-game. Q
 
 ### Quanto è l'APR / tasso di interesse della Bank?
 
-Because earnings in the Bank are derived from transaction fees that take place within the game, there is no set APR or interest rate. During periods of significant in-game activity, the JEWEL to xJEWEL ratio may rise quite a bit, while being limited at other times.
+Poiché i guadagni in Bank derivano dalle commissioni di trading che si verificano all'interno del gioco, non è previsto alcun APR o tasso di interesse. Durante i periodi di grande attività di gioco, il rapporto tra JEWEL ed xJEWEL aumenterà un po', mentre è rallentato in altri momenti.
 
 ### Che cosa fa il tasto "Claim" nella Bank?
 
-The 'claim' button collects a portion of the fees earned from in-game transactions and market-buys JEWEL with them, increasing the ratio of JEWEL to xJEWEL. When you withdraw your JEWEL from the Bank, you will have more than you put in! Since 'claiming' is distributed at once among all players, you may not see any immediate change from pushing the button.
+Il pulsante "**Claim**" raccoglie una parte delle fees accumulate dalle transazioni in-game e, con esse, acquista sul mercato JEWEL, aumentando il rapporto tra JEWEL ed xJEWEL. Quando prelevi i tuoi JEWEL dalla Bank, avrai più di quello che hai messo! Poiché il "Claiming" viene distribuito immediatamente tra tutti i giocatori, potresti non vedere alcun cambiamento immediato (premendo il pulsante).
 
 ### Perchè alcuni dei miei token JEWEL sono bloccati?
 
-In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51 (est. Q3 2022). The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens.md)
+Al fine di garantire la stabilità di JEWEL nel lungo termine, una parte dei tokens JEWEL guadagnati nei Gardens sono temporaneamente bloccati e non possono essere utilizzati in alcun modo. Questi JEWEL bloccati verranno lentamente sbloccati a partire dall'Epoch 51 (stima nel terzo trimestre del 2022). Il processo di sblocco può essere accelerato tramite le missioni di Mining. Scopri di più sulla tokenomics di DFK [qui](../how-defi-kingdoms-works/the-gardens.md).
 
 ### Quanto è lunga un'Epoch?
 
-An epoch in DFK is 302,400 blocks on the Harmony blockchain, and the length of each epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each epoch would equal one week assuming a speed of 2 seconds per block.
+Un'Epoch in DFK è di 302.400 blocchi sulla blockchain di Harmony, e la lunghezza di ciascuna Epoch dipende dalla velocità media di elaborazione dei blocchi su Harmony. Le Epoch sono state calcolate a 302.400 blocchi in modo che ognuna equivalesse ad una settimana, ad una velocità di 2 secondi per blocco (non fissa).
 
 ### Perchè i JEWEL nei miei giardini vengono riscattati?
 
-JEWEL rewards from the Gardens are automatically claimed whenever you deposit or withdraw LP Tokens into the Gardens.
+I guadagni in JEWEL dei Gardens vengono automaticamente accreditati ogni volta che depositi o prelevi tokens LP nei [Gardens](../how-defi-kingdoms-works/the-gardens.md).
 
 ### Quando inizia / azzera il sistema di fees dei giardini?
 
-The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw LP Tokens from a garden.
+Il [programma delle fees di prelievo](../how-defi-kingdoms-works/the-gardens.md#commissioni-di-deposito-e-prelievo-di-ritiro-dai-gardens) per i Gardens inizia quando depositi per la prima volta i tuoi tokens LP in un giardino specifico, ed è separato per ogni giardino. Le fees si azzerano ogni volta che prelevi gettoni LP da un giardino.
 
 ## EROI & EVOCAZIONI
 
